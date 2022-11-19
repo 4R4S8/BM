@@ -1,0 +1,4334 @@
+# Translation of Plugins - WordPress Page Builder – Zion Builder - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - WordPress Page Builder – Zion Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-03 15:17:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - WordPress Page Builder – Zion Builder - Stable (latest release)\n"
+
+#: includes/Options/Schemas/Video.php:83
+msgid "Background type"
+msgstr "نوع پس زمینه"
+
+#: includes/Elements/IconList/IconList.php:226
+msgid "Select the color of the text"
+msgstr "رنگ متن را انتخاب کنید"
+
+#: includes/Elements/IconList/IconList.php:225
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: includes/Elements/IconList/IconList.php:209
+msgid "Select the color of the icon"
+msgstr "رنگ آیکون را انتخاب کنید"
+
+#: includes/Localization.php:693
+msgid "Invalid Element"
+msgstr "الِمان نامعتبر است"
+
+#. translators: %s is the whitelabel plugin name
+#: includes/Localization.php:641
+msgctxt "zionbuilder"
+msgid "About %s"
+msgstr "درباره %s"
+
+#: includes/Localization.php:467
+msgid "Generate custom attributes to every inner parts of the element"
+msgstr "ویژگی های سفارشی را در هر قسمت داخلی الِمان ایجاد کنید"
+
+#: includes/Localization.php:466
+msgid "Meet custom attributes"
+msgstr "با ویژگی های سفارشی آشنا شوید"
+
+#. translators: %s is the whitelabel library name
+#: includes/Localization.php:363
+msgctxt "zionbuilder"
+msgid "%s Library"
+msgstr "%s کتابخانه"
+
+#: includes/Localization.php:353
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: includes/Localization.php:352
+msgid "Styles"
+msgstr "سبک ها"
+
+#: includes/Elements/IconList/IconList.php:259
+msgid "Text styles"
+msgstr "سبک های متن"
+
+#: includes/Localization.php:255
+msgid "editable name"
+msgstr "نام قابل ویرایش است"
+
+#: includes/Localization.php:32
+msgid "Element has no specific options"
+msgstr "الِمان گزینه خاصی ندارد"
+
+#: includes/Localization.php:31
+msgid "No options found"
+msgstr "گزینه ای پیدا نشد"
+
+#: includes/Admin/Admin.php:394 includes/Admin/Admin.php:417
+msgid "Edit with "
+msgstr "ویرایش با"
+
+#: includes/Admin/Admin.php:383
+msgid "Disable "
+msgstr "غیرفعال"
+
+#: includes/Api/RestControllers/Templates.php:799
+#: includes/Api/RestControllers/Templates.php:800
+msgid "copy"
+msgstr "کپی"
+
+#: includes/Api/RestControllers/Templates.php:796
+#: includes/Api/RestControllers/Templates.php:853
+msgid "Post could not be cloned!"
+msgstr "این پست نمی تواند دوباره سازی شود!"
+
+#: includes/Api/RestControllers/Library.php:424
+#: includes/Api/RestControllers/Templates.php:630
+#: includes/Api/RestControllers/Templates.php:728
+#: includes/Library/Sources/LocalSource.php:87
+#: includes/Library/Sources/LocalSource.php:155
+msgid "Could not return the post instance"
+msgstr "نمونه پست قابل بازگشت نیست"
+
+#. translators: %s is the whitelabel plugin name
+#: includes/Shortcodes.php:48
+msgid "Template was not built with %s"
+msgstr "الگو با %s ساخته نشده است"
+
+#: includes/Localization.php:596
+msgid "Icon Library"
+msgstr "‫کتابخانه آیکون"
+
+#: includes/Localization.php:421
+msgid "No global gradients were found"
+msgstr "‫هیچ گرادینت سراسری یافت نشد"
+
+#: includes/Localization.php:420
+msgid "No local gradients were found"
+msgstr "‫هیچ گرادینت محلی پیدا نشد"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:90
+msgid "Progress Bar"
+msgstr "‫نوار پیشرفت"
+
+#: includes/Elements/Tabs/Tabs.php:154
+msgid "Active tab title styles"
+msgstr "‫استایل های عنوان زبانه فعال"
+
+#: includes/Elements/Tabs/Tabs.php:146
+msgid "Tab title styles"
+msgstr "‫استایل های عنوان زبانه "
+
+#: includes/Shortcodes.php:36
+msgid "Template id missing"
+msgstr "شناسه الگو موجود نیست"
+
+#: includes/Elements/CustomCode/CustomCode.php:111
+msgid "Meet Custom PHP"
+msgstr "با PHP سفارشی آشنا شوید"
+
+#: includes/Elements/CustomCode/CustomCode.php:103
+msgid "Custom PHP"
+msgstr "PHP سفارشی"
+
+#: includes/Elements/CustomCode/CustomCode.php:85
+msgid "Custom HTML/CSS/JavaScript"
+msgstr "HTML / CSS / JavaScript سفارشی"
+
+#: includes/Elements/CustomCode/CustomCode.php:38
+msgid "Custom Code"
+msgstr "کد سفارشی"
+
+#: includes/Elements/CustomCode/CustomCode.php:112
+msgid "With custom PHP you can add additional logic to your page"
+msgstr "با PHP سفارشی می توانید منطق بیشتری به صفحه خود اضافه کنید"
+
+#: includes/Shortcodes.php:42
+msgid "Template not found"
+msgstr "‫الگو پیدا نشد"
+
+#: includes/Elements/Tabs/Tabs.php:84 includes/Elements/Tabs/Tabs.php:91
+#: includes/Elements/Tabs/Tabs.php:97
+msgid "Tab"
+msgstr "زبانه"
+
+#: includes/Localization.php:660
+msgid "Getting started"
+msgstr "شروع شدن"
+
+#: includes/Localization.php:389
+msgid "Choose highlighted template to add to your page.<br/> Since you are inserting this as a root element, adding this template will create a section with a column inside."
+msgstr "الگوی برجسته شده را برای افزودن به صفحه خود انتخاب کنید.<br/> از آنجا که شما این مورد را به عنوان الِمان ریشه درج می کنید, با افزودن این الگو بخشی ایجاد می شود که درون آن ستونی وجود دارد."
+
+#: includes/Localization.php:385
+msgid "From the <b>Elements tab</b> you can add new elements in the position from which you've pressed the plus sign. They can be easily searched by introducing their name in the search box, or just by scrolling through them. <br/><br/>Now, click on the highlighted Library tab to see the link to the Library."
+msgstr "از زبانه <b> اِلمان ها </b> می توانید اِلمان های جدیدی را در موقعیتی که از آن علامت مثبت را فشار داده اید‬‫،‬‫ اضافه کنید‬‫.‬‫ با وارد کردن نام خود در جعبه جستجو‬‫،‬‫ یا فقط با پیمایش در آنها‬‫،‬‫ می توان آنها را به راحتی جستجو کرد‬‫.‬‫ <br/> <br/> اکنون‬‫،‬‫ برای مشاهده پیوند به کتابخانه‬‫،‬‫ روی برگه برجسته کتابخانه کلیک کنید‬‫.‬‫"
+
+#: includes/Localization.php:387
+msgid "From the Library tab you can choose from hundreds of pre-made templates.<br/> <br/>Now lets add some elements to the page. Go back to add <b>\"Columns\"</b> in order to add a column template to your page. </br><b>Click on the highlighted \"Columns tab\"</b>"
+msgstr "‫از زبانه کتابخانه می توانید صدها الگوی از پیش ساخته شده را انتخاب کنید‬‫.‬‫<br/> <br/>اکنون به شما اجازه می دهیم برخی از اِلمان ها را به صفحه اضافه کنید‬‫.‬‫ برای افزودن الگوی ستونی به صفحه خود‬‫،‬‫ به قسمت <b> \"ستون ها\" بروید‬‫.‬‫ </br><b>روی \"زبانه ستونها\" برجسته شده کلیک کنید"
+
+#: includes/Localization.php:377
+msgid "End tour"
+msgstr "پایان تور"
+
+#: includes/Localization.php:151
+msgid "Delete font?"
+msgstr "فونت حذف شود؟"
+
+#: includes/Localization.php:87
+msgid "Regenerate CSS & JS"
+msgstr "بازسازی CSS و JS"
+
+#: zionbuilder.php:120
+msgid "Update WordPress"
+msgstr "وردپرس را به روز کنید"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:178
+msgid "Autoplay speed"
+msgstr "سرعت پخش خودکار"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:144
+msgid "Autoplay"
+msgstr "پخش خودکار"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:122
+msgid "Show dots"
+msgstr "نمایش نقاط"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:112
+msgid "Show arrows"
+msgstr "نمایش پیکان ها"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:92
+msgid "Gallery images."
+msgstr "تصاویر گالری"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:90
+#: includes/Elements/ImageSlider/ImageSlider.php:91
+msgid "Select images."
+msgstr "تصاویر را انتخاب کنید."
+
+#: includes/Elements/ImageSlider/ImageSlider.php:42
+msgid "Image Slider"
+msgstr "اسلایدر تصویر"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:306
+msgid "Show download button?"
+msgstr "دکمه بارگیری نمایش داده شود؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:284
+msgid "Show share button?"
+msgstr "دکمه اشتراک گذاری نشان داده شود؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:262
+msgid "Show buy button?"
+msgstr "دکمه خرید نشان داده شود؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:240
+msgid "Show Like button?"
+msgstr "دکمه Like نشان داده شود؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:218
+msgid "Show user?"
+msgstr "کاربر را نشان دهد؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:196
+msgid "Show related"
+msgstr "نمایش مرتبط"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:167
+msgid "Show play count?"
+msgstr "تعداد پخش نشان داده شود؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:116
+msgid "Autoplay audio?"
+msgstr "پخش صدا خودکار شود؟"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:101
+msgid "Simple"
+msgstr "ساده"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:95
+msgid "Player type"
+msgstr "نوع پخش کننده"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:85
+msgid "Audio URL"
+msgstr "URL صوتی"
+
+#: includes/Elements/Testimonial/Testimonial.php:225
+msgid "5 stars"
+msgstr "5 ستاره"
+
+#: includes/Elements/Testimonial/Testimonial.php:221
+msgid "4 stars"
+msgstr "4 ستاره"
+
+#: includes/Elements/Testimonial/Testimonial.php:217
+msgid "3 stars"
+msgstr "3 ستاره"
+
+#: includes/Elements/Testimonial/Testimonial.php:213
+msgid "2 stars"
+msgstr "2 ستاره"
+
+#: includes/Elements/Testimonial/Testimonial.php:209
+msgid "1 star"
+msgstr "1 ستاره"
+
+#. translators: %s: Minimum WordPress version
+#: zionbuilder.php:124
+msgid "Zion Builder requires at least WordPress version %s. Please update WordPress to the latest version. Zion Builder will not be activated until the minimum WordPress version is installed."
+msgstr "‫صفحه ساز زاین حداقل به نسخه وردپرس %s نیار دارد‬‫.‬‫ لطفا وردپرس را به آخرین نسخه به روز کنید‬‫.‬‫ صفحه ساز زاین تا زمان نصب حداقل نسخه وردپرس فعال نخواهد شد‬‫.‬‫"
+
+#. translators: %s: Minimum PHP version
+#: zionbuilder.php:93
+msgid "Zion Builder requires at least PHP version %s. Please contact your hosting provider and ask them to update the PHP version used on your server. Zion builder will not be activated until the minimum PHP version is installed."
+msgstr "‫صفحه ساز زاین حداقل به نسخه PHP %s نیاز دارد‬‫.‬‫ لطفا با ارائه دهنده میزبانی خود تماس بگیرید و از آنها بخواهید نسخه PHP مورد استفاده در سرور شما را به روز کنند‬‫.‬‫ صفحه ساز زاین تا زمان نصب حداقل نسخه PHP فعال نخواهد شد‬‫.‬‫"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:165
+msgid "Slides to scroll"
+msgstr "Slides to scroll"
+
+#: includes/Elements/ImageSlider/ImageSlider.php:153
+msgid "Slides to show"
+msgstr "Slides to show"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:328
+msgid "Buttons color"
+msgstr "‫رنگ دکمه ها"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:138
+msgid "Show artwork?"
+msgstr "‫آثار هنری نشان داده شود‬‫؟‬‫"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:105
+msgid "Artistic graphic"
+msgstr "‫گرافیک هنری"
+
+#: includes/Elements/Soundcloud/Soundcloud.php:37
+msgid "Soundcloud"
+msgstr "‫ساوندکلاود"
+
+#: includes/Elements/Testimonial/Testimonial.php:273
+msgid "Stars styles"
+msgstr "‫استایل های ستاره ها"
+
+#: includes/Elements/Testimonial/Testimonial.php:252
+msgid "Name styles"
+msgstr "‫نام استایل ها"
+
+#: includes/Elements/Testimonial/Testimonial.php:245
+msgid "Testimonial styles"
+msgstr "‫استایل های نظرات مشتریان"
+
+#: includes/Elements/Testimonial/Testimonial.php:89
+msgid "Edit the element options to change it"
+msgstr "‫گزینه های اِلمان را ویرایش کنید تا تغییر کند"
+
+#: includes/Elements/Testimonial/Testimonial.php:88
+msgid "Testimonial content"
+msgstr "‫محتوای نظرات مشتریان"
+
+#: includes/Elements/Testimonial/Testimonial.php:40
+msgid "Testimonial"
+msgstr "نظر‌ مشتری"
+
+#: includes/Elements/CustomCode/CustomCode.php:94
+msgid "Custom html"
+msgstr "‫html سفارشی"
+
+#: includes/Elements/CustomCode/CustomCode.php:93
+msgid "Using this option you can enter you own custom HTML code. If you plan on adding CSS or JavaScript, wrap the codes into <style type=\"text/css\">...</style> respectively <script>...</script> . Please make sure your JS code is fully functional as it might break the entire page!!"
+msgstr "‫با استفاده از این گزینه می توانید کد HTML دلخواه خود را وارد کنید‬‫.‬‫ اگر می خواهید CSS یا JavaScript اضافه کنید‬‫،‬‫ کدها را به ترتیب در <style type=\"text/css\">‬‫.‬‫‬‫.‬‫‬‫.‬‫ </style> قرار دهید <script>‬‫.‬‫‬‫.‬‫‬‫.‬‫ </script>‬‫.‬‫ لطفاً اطمینان حاصل کنید که کد JS شما کاملاً کاربردی است زیرا ممکن است کل صفحه را بشکند‬‫!‬‫‬‫!‬‫"
+
+#: includes/Elements/Accordions/Accordions.php:115
+msgid "Toogle"
+msgstr "‫توگل"
+
+#: includes/Elements/Accordions/Accordions.php:39
+#: includes/Elements/Accordions/Accordions.php:76
+msgid "Accordions"
+msgstr "‫آکاردئون"
+
+#: includes/Elements/Accordions/AccordionItem.php:92
+msgid "Active by default?"
+msgstr "‫به طور پیش فرض فعال شود‬‫؟‬‫"
+
+#: includes/Elements/Accordions/AccordionItem.php:82
+msgid "Accordion content"
+msgstr "‫محتوای آکاردئون"
+
+#: includes/Elements/Accordions/AccordionItem.php:70
+msgid "Accordion title"
+msgstr "‫عنوان آکاردئون"
+
+#: includes/Elements/Accordions/AccordionItem.php:39
+#: includes/Elements/Accordions/Accordions.php:83
+#: includes/Elements/Accordions/Accordions.php:90
+#: includes/Elements/Accordions/Accordions.php:96
+#: includes/Elements/Accordions/Accordions.php:111
+msgid "Accordion"
+msgstr "‫آکاردئون"
+
+#: includes/Elements/PricingBox/PricingBox.php:279
+msgid "Buton styles"
+msgstr "‫استایل های دکمه"
+
+#: includes/Elements/PricingBox/PricingBox.php:271
+msgid "Features styles"
+msgstr "‫ویژگی های استایل ها"
+
+#: includes/Elements/PricingBox/PricingBox.php:263
+msgid "Price styles"
+msgstr "‫استایل های قیمت"
+
+#: includes/Elements/PricingBox/PricingBox.php:122
+msgid "Heading background"
+msgstr "‫پس زمینه عنوان"
+
+#: includes/Elements/PricingBox/PricingBox.php:103
+msgid "Heading color"
+msgstr "‫رنگ عنوان"
+
+#: includes/Elements/PricingBox/PricingBox.php:91
+msgid "Price box description"
+msgstr "‫توضیحات جعبه قیمت"
+
+#: includes/Elements/PricingBox/PricingBox.php:90
+msgid "Pricing box description"
+msgstr "‫توضیحات جعبه قیمت گذاری"
+
+#: includes/Elements/PricingBox/PricingBox.php:89
+msgid "Plan description"
+msgstr "‫توضیحات برنامه"
+
+#: includes/Elements/PricingBox/PricingBox.php:77
+#: includes/Elements/PricingBox/PricingBox.php:78
+msgid "Basic"
+msgstr "‫پایه"
+
+#: includes/Elements/PricingBox/PricingBox.php:76
+msgid "Plan title"
+msgstr "‫عنوان برنامه"
+
+#: includes/Elements/PricingBox/PricingBox.php:39
+msgid "Pricing Box"
+msgstr "‫جعبه قیمت گذاری"
+
+#: includes/Elements/Section/Section.php:481
+msgid "Inner Content"
+msgstr "‫محتوای داخلی"
+
+#: includes/Elements/Section/Section.php:198
+msgid "No gap"
+msgstr "‫بدون شکاف"
+
+#: includes/Elements/Section/Section.php:194
+msgid "Extra Large (40px)"
+msgstr "‫فوق العاده بزرگ ‬‫(‬‫40 پیکسل‬‫)‬‫"
+
+#: includes/Elements/Section/Section.php:190
+msgid "Large (25px)"
+msgstr "‫بزرگ ‬‫(‬‫25 پیکسل‬‫)‬‫"
+
+#: includes/Elements/Section/Section.php:186
+msgid "Small (10px)"
+msgstr "‫کوچک ‬‫(‬‫10 پیکسل‬‫)‬‫"
+
+#: includes/Elements/Section/Section.php:182
+msgid "Extra small (5px)"
+msgstr "‫فوق العاده کوچک ‬‫(‬‫5 پیکسل‬‫)‬‫"
+
+#: includes/Elements/Section/Section.php:178
+msgid "Default (15px)"
+msgstr "‫پیش فرض ‬‫(‬‫15 پیکسل‬‫)‬‫"
+
+#: includes/Elements/Manager.php:224
+msgid "WordPress Widgets"
+msgstr "‫ابزارک های وردپرس"
+
+#: includes/Elements/Manager.php:219
+msgid "External"
+msgstr "‫خارجی"
+
+#: includes/Elements/Manager.php:214
+msgid "Media"
+msgstr "‫رسانه ها"
+
+#: includes/Elements/Separator/Separator.php:273
+msgid "Use icon"
+msgstr "‫از آیکون استفاده کنید"
+
+#: includes/Elements/Separator/Separator.php:187
+msgid "Set stroke width."
+msgstr "‫عرض stroke را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/Separator/Separator.php:186
+msgid "Line thickness"
+msgstr "‫ضخامت خط"
+
+#: includes/Elements/Separator/Separator.php:155
+msgid "Set separator width."
+msgstr "‫عرض جدا ساز را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/Separator/Separator.php:138
+msgid "Line color"
+msgstr "‫رنگ خط"
+
+#: includes/Elements/Container/Container.php:278
+#: includes/Elements/Container/Container.php:316
+#: includes/Elements/Container/Container.php:380
+#: includes/Elements/Container/Container.php:469
+#: includes/Elements/Separator/Separator.php:125
+msgid "flex-end"
+msgstr "flex-end"
+
+#: includes/Elements/Container/Container.php:268
+#: includes/Elements/Container/Container.php:306
+#: includes/Elements/Container/Container.php:370
+#: includes/Elements/Container/Container.php:459
+#: includes/Elements/Separator/Separator.php:115
+msgid "flex-start"
+msgstr "flex-start"
+
+#: includes/Elements/Separator/Separator.php:110
+msgid "Alignment"
+msgstr "‫هم ترازی"
+
+#: includes/Elements/Separator/Separator.php:77
+msgid "Separator Type"
+msgstr "‫نوع جدا کننده"
+
+#: includes/Elements/Separator/Separator.php:40
+msgid "Separator"
+msgstr "‫جدا کننده"
+
+#: includes/Elements/IconBox/IconBox.php:240
+#: includes/Elements/ImageBox/ImageBox.php:252
+#: includes/Elements/Testimonial/Testimonial.php:259
+msgid "Description styles"
+msgstr "‫استایل های توضیحات"
+
+#: includes/Elements/Alert/Alert.php:160
+msgid "Dismiss icon color"
+msgstr "‫رد کردن رنگ آیکون"
+
+#: includes/Elements/Alert/Alert.php:152
+msgid "Show dismiss button?"
+msgstr "‫دکمه اخراج نشان داده می شود‬‫؟‬‫"
+
+#: includes/Elements/Alert/Alert.php:142
+msgid "This is just a dummy text, edit the element options to set your own text"
+msgstr "‫این فقط یک متن ساختگی است‬‫،‬‫ گزینه های الِمان را ویرایش کنید تا متن خود را تنظیم کنید"
+
+#: includes/Elements/Alert/Alert.php:141
+msgid "Description"
+msgstr "‫توضیحات"
+
+#: includes/Elements/Alert/Alert.php:127
+msgid "Title border color"
+msgstr "‫رنگ حاشیه عنوان"
+
+#: includes/Elements/Alert/Alert.php:112
+msgid "Title color"
+msgstr "‫رنگ عنوان"
+
+#: includes/Elements/Alert/Alert.php:103
+msgid "This is an Alert"
+msgstr "‫این یک هشدار است"
+
+#: includes/Elements/Alert/Alert.php:77
+msgid "Success"
+msgstr "موفقیت"
+
+#: includes/Elements/Accordions/Accordions.php:107
+#: includes/Elements/Alert/Alert.php:69
+#: includes/Elements/Shortcode/Shortcode.php:81
+msgid "Type"
+msgstr "‫نوع"
+
+#: includes/Elements/Alert/Alert.php:36
+msgid "Alert"
+msgstr "‫هشدار"
+
+#: includes/Elements/Accordions/Accordions.php:192
+#: includes/Elements/IconBox/IconBox.php:232
+#: includes/Elements/ImageBox/ImageBox.php:244
+#: includes/Elements/PricingBox/PricingBox.php:255
+#: includes/Elements/ProgressBars/ProgressBars.php:264
+msgid "Title styles"
+msgstr "‫استایل های عنوان"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:236
+msgid "Items distance"
+msgstr "‫فاصله آیتم ها"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:217
+msgid "Bars height"
+msgstr "‫ارتفاع نوار ها"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:155
+msgid "Select the desired bar style"
+msgstr "‫استایل نوار مورد نظر را انتخاب کنید"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:140
+#: includes/Elements/ProgressBars/ProgressBars.php:201
+msgid "Bar background color"
+msgstr "‫رنگ پس زمینه نوار"
+
+#: includes/Elements/Heading/Heading.php:103
+#: includes/Elements/IconBox/IconBox.php:162
+#: includes/Elements/ImageBox/ImageBox.php:173
+msgid "h1"
+msgstr "h1"
+
+#: includes/Elements/Heading/Heading.php:100
+msgid "Set the desired heading tag."
+msgstr "‫عنوان اصلی را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/Column/Column.php:464
+#: includes/Elements/Section/Section.php:464
+msgid "Add a mask to your element"
+msgstr "‫به اِلمان خود ماسک اضافه کنید"
+
+#: includes/Elements/Column/Column.php:455
+#: includes/Elements/Section/Section.php:455
+msgid "Shape Dividers"
+msgstr "‫تقسیم کننده های شکل"
+
+#: includes/Elements/Column/Column.php:442
+#: includes/Elements/Container/Container.php:352
+msgid "wrap-reverse"
+msgstr "wrap-reverse"
+
+#: includes/Elements/Column/Column.php:438
+#: includes/Elements/Container/Container.php:348
+msgid "nowrap"
+msgstr "‫بدون بسته بندی"
+
+#: includes/Elements/Column/Column.php:434
+#: includes/Elements/Container/Container.php:344
+msgid "wrap"
+msgstr "wrap"
+
+#: includes/Elements/Column/Column.php:431
+msgid "If you choose to wrap the content, all inner elements will be placed on a new line if there is no space for them on the same line."
+msgstr "‫اگر انتخاب کنید که محتوا را بسته بندی کنید‬‫،‬‫ اگر فضای لازم برای آنها در همان خط نباشد‬‫،‬‫ تمام اِلمان های داخلی روی یک خط جدید قرار می گیرند‬‫.‬‫"
+
+#: includes/Elements/Column/Column.php:430
+msgid "Wrap content"
+msgstr "‫بسته بندی محتوا"
+
+#: includes/Elements/Column/Column.php:323
+msgid "Space-around"
+msgstr "Space-around"
+
+#: includes/Elements/Column/Column.php:230
+#: includes/Elements/Section/Section.php:256
+msgid "Select the desired content orientation."
+msgstr "‫جهت گیری محتوای مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Column/Column.php:190
+#: includes/Elements/Container/Container.php:109
+#: includes/Elements/Heading/Heading.php:99
+#: includes/Elements/Section/Section.php:216
+msgid "HTML tag"
+msgstr "‫برچسب HTML"
+
+#: includes/Elements/Column/Column.php:161
+msgid "Column offset"
+msgstr "‫جابجایی ستون"
+
+#: includes/Elements/Column/Column.php:160
+msgid "Choose the desired column offset."
+msgstr "‫جابجایی ستون مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Column/Column.php:142
+msgid "Column width"
+msgstr "‫عرض ستون"
+
+#: includes/Elements/Column/Column.php:141
+msgid "Choose the desired column width."
+msgstr "‫عرض ستون مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Column/Column.php:105
+#: includes/Elements/Column/Column.php:122
+msgid "auto"
+msgstr "خودکار"
+
+#: includes/Elements/Column/Column.php:40
+msgid "Column"
+msgstr "‫ستون"
+
+#: includes/Elements/Button/Button.php:335
+msgid "Button styles"
+msgstr "‫استایل های دکمه"
+
+#: includes/Elements/Button/Button.php:291
+msgid "Choose icon position."
+msgstr "‫موقعیت آیکون را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Button/Button.php:290
+#: includes/Elements/IconBox/IconBox.php:91
+msgid "Icon position"
+msgstr "‫موقعیت آیکون"
+
+#: includes/Elements/Button/Button.php:253
+msgid "Choose button position."
+msgstr "‫موقعیت دکمه را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Button/Button.php:252
+msgid "Button position"
+msgstr "‫موقعیت دکمه"
+
+#: includes/Elements/Button/Button.php:237
+msgid "Full width"
+msgstr "‫تمام عرض"
+
+#: includes/Elements/Button/Button.php:117
+msgid "Black"
+msgstr "‫مشکی"
+
+#: includes/Elements/Button/Button.php:113
+msgid "Primary"
+msgstr "اولیه"
+
+#: includes/Elements/Button/Button.php:109
+msgid "Button type"
+msgstr "‫نوع دکمه"
+
+#: includes/Elements/Button/Button.php:80
+msgid "Press me"
+msgstr "‫من را فشار دهید"
+
+#: includes/Elements/Button/Button.php:79
+#: includes/Elements/PricingBox/PricingBox.php:171
+#: includes/Elements/PricingBox/PricingBox.php:173
+msgid "Button text"
+msgstr "‫متن دکمه"
+
+#: includes/Elements/Button/Button.php:78
+msgid "Set the button text"
+msgstr "‫متن دکمه را تنظیم کنید"
+
+#: includes/Elements/Button/Button.php:40
+msgid "Button"
+msgstr "‫دکمه"
+
+#: includes/Elements/Counter/Counter.php:191
+msgid "After styles"
+msgstr "‫بعد از استایل ها"
+
+#: includes/Elements/Counter/Counter.php:184
+msgid "Before styles"
+msgstr "‫قبل از استایل ها"
+
+#: includes/Elements/Counter/Counter.php:135
+msgid "Text after"
+msgstr "‫بعد از متن"
+
+#: includes/Elements/Counter/Counter.php:127
+msgid "Text before"
+msgstr "‫قبل از متن"
+
+#: includes/Elements/Counter/Counter.php:111
+msgid "Set the desired speed for the animation"
+msgstr "‫سرعت مورد نظر را برای انیمیشن تنظیم کنید"
+
+#: includes/Elements/Counter/Counter.php:110
+msgid "Speed"
+msgstr "‫سرعت"
+
+#: includes/Elements/Counter/Counter.php:93
+msgid "Number: to"
+msgstr "‫شماره: به"
+
+#: includes/Elements/Counter/Counter.php:77
+#: includes/Elements/Counter/Counter.php:94
+msgid "Set the desired starting number"
+msgstr "‫شماره شروع مورد نظر را تنظیم کنید"
+
+#: includes/Elements/Icon/Icon.php:122
+msgid "Filled"
+msgstr "‫توپر"
+
+#: includes/Elements/Icon/Icon.php:113
+msgid "Style"
+msgstr "‫استایل"
+
+#: includes/Elements/Icon/Icon.php:112 includes/Elements/Icon/Icon.php:142
+msgid "Select the desired icon style"
+msgstr "‫استایل دلخواه آیکون را انتخاب کنید"
+
+#: includes/Elements/Button/Button.php:100 includes/Elements/Icon/Icon.php:92
+msgid "Set the url"
+msgstr "‫آدرس اینترنتی را تنظیم کنید"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:169
+msgid "Terrain"
+msgstr "‫زمین"
+
+#: includes/Elements/Button/Button.php:173
+#: includes/Elements/Button/Button.php:209
+#: includes/Elements/GoogleMaps/GoogleMaps.php:165
+#: includes/Elements/Icon/Icon.php:216
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:160
+msgid "Map type"
+msgstr "‫نوع نقشه"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:159
+msgid "Set the map type."
+msgstr "‫نوع نقشه را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:110
+msgid "Map height"
+msgstr "‫ارتفاع نقشه"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:109
+msgid "Set the map height."
+msgstr "‫ارتفاع نقشه را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:98
+msgid "Zoom level"
+msgstr "‫سطح بزرگنمایی"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:97
+msgid "Set the map zoom."
+msgstr "‫بزرگنمایی نقشه را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:89
+msgid "Enter the desired location for this map"
+msgstr "‫مکان مورد نظر را برای این نقشه وارد کنید"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:87
+msgid "Map Location"
+msgstr "‫مکان نقشه"
+
+#: includes/Elements/GoogleMaps/GoogleMaps.php:39
+msgid "Google Maps"
+msgstr "‫نقشه های گوگل"
+
+#: includes/Elements/Image/Image.php:188
+#: includes/Elements/ImageBox/ImageBox.php:237
+#: includes/Elements/Testimonial/Testimonial.php:266
+msgid "Image styles"
+msgstr "‫استایل های تصویر"
+
+#: includes/Elements/Image/Image.php:180
+msgid "Link styles"
+msgstr "‫استایل های پیوند"
+
+#: includes/Elements/Image/Image.php:157
+msgid "Image caption."
+msgstr "‫زیرنویس تصویر‬‫.‬‫"
+
+#: includes/Elements/Image/Image.php:156
+msgid "Caption Text"
+msgstr "‫متن زیرنویس"
+
+#: includes/Elements/Image/Image.php:148
+msgid "Show caption"
+msgstr "‫نمایش زیرنویس"
+
+#: includes/Elements/Button/Button.php:101
+#: includes/Elements/Button/Button.php:149
+#: includes/Elements/Column/Column.php:180
+#: includes/Elements/Container/Container.php:150
+#: includes/Elements/Heading/Heading.php:90 includes/Elements/Icon/Icon.php:93
+#: includes/Elements/IconList/IconList.php:200
+#: includes/Elements/Image/Image.php:118 includes/Localization.php:752
+msgid "Link"
+msgstr "‫پیوند"
+
+#: includes/Elements/Counter/Counter.php:144
+#: includes/Elements/Heading/Heading.php:147
+#: includes/Elements/Icon/Icon.php:102
+#: includes/Elements/IconBox/IconBox.php:123
+#: includes/Elements/Image/Image.php:107
+#: includes/Elements/ImageBox/ImageBox.php:134
+msgid "Select the desired alignment."
+msgstr "‫تراز بندی مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Image/Image.php:41 includes/Elements/Image/Image.php:91
+#: includes/Elements/ImageBox/ImageBox.php:90
+msgid "Image"
+msgstr "‫تصویر"
+
+#: includes/Elements/Heading/Heading.php:78
+#: includes/Elements/Heading/Heading.php:185
+#: includes/Elements/IconBox/IconBox.php:206
+#: includes/Elements/ImageBox/ImageBox.php:217
+#: includes/Elements/Text/Text.php:78
+msgid "Just a sample text from heading element."
+msgstr "‫فقط یک متن نمونه از اِلمان عنوان‬‫.‬‫"
+
+#: includes/Elements/Text/Text.php:77
+msgid "Enter text"
+msgstr "‫متن را وارد کنید"
+
+#: includes/Elements/IconList/IconList.php:186
+#: includes/Elements/Text/Text.php:75
+msgid "Set the desired content for this element"
+msgstr "‫محتوای مورد نظر را برای این اِلمان تنظیم کنید"
+
+#: includes/Elements/Text/Text.php:38
+msgid "Text"
+msgstr "متن"
+
+#: includes/Elements/Sidebar/Sidebar.php:129
+msgid "No sidebar selected"
+msgstr "‫هیچ ستون کناری انتخاب نشده است"
+
+#: includes/Elements/Sidebar/Sidebar.php:105
+msgid "No sidebars registered"
+msgstr "‫هیچ ستون کناری ثبت نشده است"
+
+#: includes/Elements/Sidebar/Sidebar.php:85
+#: includes/Elements/Sidebar/Sidebar.php:86
+msgid "Select sidebar"
+msgstr "‫نوار کناری را انتخاب کنید"
+
+#: includes/Elements/Testimonial/Testimonial.php:205
+msgid "Do not show stars"
+msgstr "ستاره ها را نشان ندهید"
+
+#: includes/Elements/Testimonial/Testimonial.php:201
+msgid "Stars"
+msgstr "ستاره ها"
+
+#: includes/Elements/Testimonial/Testimonial.php:172
+msgid "Set how elements to be aligned"
+msgstr "نحوه تراز شدن اِلمان ها را تنظیم کنید"
+
+#: includes/Elements/Testimonial/Testimonial.php:171
+msgid "Content alignment"
+msgstr "ترازبندی محتوا"
+
+#: includes/Elements/Testimonial/Testimonial.php:152
+msgid "Image to the right"
+msgstr "تصویر در سمت راست"
+
+#: includes/Elements/Testimonial/Testimonial.php:148
+msgid "Image to the left"
+msgstr "تصویر در سمت چپ"
+
+#: includes/Elements/Testimonial/Testimonial.php:141
+msgid "Set where the image should be"
+msgstr "جایی را که تصویر باید باشد تنظیم کنید"
+
+#: includes/Elements/Testimonial/Testimonial.php:129
+msgid "User Photo"
+msgstr "عکس کاربر"
+
+#: includes/Elements/Testimonial/Testimonial.php:117
+msgid "I'm Awesome"
+msgstr "عالی هستم"
+
+#: includes/Elements/Testimonial/Testimonial.php:116
+msgid "description"
+msgstr "توضیحات"
+
+#: includes/Elements/Testimonial/Testimonial.php:115
+msgid "Set the client description."
+msgstr "توضیحات مشتری را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/Testimonial/Testimonial.php:114
+msgid "Client description"
+msgstr "توضیحات مشتری"
+
+#: includes/Elements/Testimonial/Testimonial.php:103
+msgid "John Dow"
+msgstr "جان داو"
+
+#: includes/Elements/Testimonial/Testimonial.php:101
+msgid "Set the desired user name."
+msgstr "نام کاربری مورد نظر را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/Testimonial/Testimonial.php:100
+#: includes/Elements/Testimonial/Testimonial.php:102
+msgid "User name"
+msgstr "نام کاربری"
+
+#: includes/Elements/Section/Section.php:172
+msgid "Columns gap"
+msgstr "فاصله ستون ها"
+
+#: includes/Elements/Section/Section.php:171
+msgid "Set the desired columns gap. This will affect all inner columns."
+msgstr "فاصله ستون های مورد نظر را تنظیم کنید‬‫.‬‫ این روی تمام ستون های داخلی تأثیر می گذارد‬‫.‬‫"
+
+#: includes/Elements/Section/Section.php:125
+msgid "Set the desired Inner Content width"
+msgstr "عرض محتوای داخلی مورد نظر را تنظیم کنید"
+
+#: includes/Elements/Section/Section.php:108
+msgid "Full size"
+msgstr "اندازه کامل"
+
+#: includes/Elements/Section/Section.php:104
+msgid "Boxed"
+msgstr "جعبه ای"
+
+#: includes/Elements/Section/Section.php:99
+#: includes/Elements/Section/Section.php:128
+msgid "Inner content width"
+msgstr "عرض محتوای داخلی"
+
+#: includes/Elements/Section/Section.php:98
+msgid "Select the desired inner content type"
+msgstr "نوع محتوای داخلی مورد نظر را انتخاب کنید"
+
+#: includes/Elements/Section/Section.php:39
+msgid "Section"
+msgstr "بخش"
+
+#: includes/Elements/ImageBox/ImageBox.php:156
+msgid "Image box title"
+msgstr "عنوان جعبه تصویر"
+
+#: includes/Elements/ImageBox/ImageBox.php:115
+msgid "Image on right"
+msgstr "تصویر در سمت راست"
+
+#: includes/Elements/ImageBox/ImageBox.php:111
+msgid "Image on left"
+msgstr "تصویر در سمت چپ"
+
+#: includes/Elements/ImageBox/ImageBox.php:107
+#: includes/Elements/Testimonial/Testimonial.php:144
+msgid "Image on top"
+msgstr "تصویر در سمت بالا"
+
+#: includes/Elements/ImageBox/ImageBox.php:103
+#: includes/Elements/Testimonial/Testimonial.php:140
+msgid "Image position"
+msgstr "موقعیت تصویر"
+
+#: includes/Elements/ImageBox/ImageBox.php:40
+msgid "Image Box"
+msgstr "جعبه تصویر"
+
+#: includes/Elements/Element.php:588
+msgid "Wrapper"
+msgstr "بسته بندی"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:125
+#: includes/Elements/ProgressBars/ProgressBars.php:185
+msgid "Bar progress color"
+msgstr "رنگ نوار پیشرفت"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:112
+msgid "Fill percentage"
+msgstr "درصد را پر کنید"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:101
+msgid "Set the desired bar title"
+msgstr "عنوان نوار مورد نظر را تنظیم کنید"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:85
+msgid "Bar 2"
+msgstr "‫نوار 2"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:81
+msgid "Bar 1"
+msgstr "‫نوار 1"
+
+#: includes/Elements/ProgressBars/ProgressBars.php:76
+msgid "Add new progress bar"
+msgstr "نوار پیشرفت جدیدی اضافه کنید"
+
+#: includes/Elements/Heading/Heading.php:135
+#: includes/Elements/IconBox/IconBox.php:194
+#: includes/Elements/ImageBox/ImageBox.php:205
+msgid "div"
+msgstr "div"
+
+#: includes/Elements/Heading/Heading.php:131
+#: includes/Elements/IconBox/IconBox.php:190
+#: includes/Elements/ImageBox/ImageBox.php:201
+msgid "span"
+msgstr "span"
+
+#: includes/Elements/Heading/Heading.php:127
+#: includes/Elements/IconBox/IconBox.php:186
+#: includes/Elements/ImageBox/ImageBox.php:197
+msgid "p"
+msgstr "p"
+
+#: includes/Elements/Heading/Heading.php:123
+#: includes/Elements/IconBox/IconBox.php:182
+#: includes/Elements/ImageBox/ImageBox.php:193
+msgid "h6"
+msgstr "h6"
+
+#: includes/Elements/Heading/Heading.php:119
+#: includes/Elements/IconBox/IconBox.php:178
+#: includes/Elements/ImageBox/ImageBox.php:189
+msgid "h5"
+msgstr "h5"
+
+#: includes/Elements/Heading/Heading.php:115
+#: includes/Elements/IconBox/IconBox.php:174
+#: includes/Elements/ImageBox/ImageBox.php:185
+msgid "h4"
+msgstr "h4"
+
+#: includes/Elements/Heading/Heading.php:111
+#: includes/Elements/IconBox/IconBox.php:170
+#: includes/Elements/ImageBox/ImageBox.php:181
+msgid "h3"
+msgstr "h3"
+
+#: includes/Elements/Heading/Heading.php:107
+#: includes/Elements/IconBox/IconBox.php:166
+#: includes/Elements/ImageBox/ImageBox.php:177
+msgid "h2"
+msgstr "h2"
+
+#: includes/Elements/Button/Button.php:217
+msgid "Large"
+msgstr "بزرگ"
+
+#: includes/Elements/Button/Button.php:213
+msgid "Medium"
+msgstr "متوسط"
+
+#: includes/Elements/Button/Button.php:205
+msgid "Small"
+msgstr "کوچک"
+
+#: includes/Elements/Button/Button.php:200
+msgid "Choose button size."
+msgstr "اندازه دکمه را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Button/Button.php:199
+msgid "Button size"
+msgstr "اندازه دکمه"
+
+#: includes/Elements/Button/Button.php:177
+msgid "Semi rounded"
+msgstr "Semi rounded"
+
+#: includes/Elements/Button/Button.php:168
+msgid "Choose button shape."
+msgstr "شکل دکمه را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Button/Button.php:167
+msgid "Button shape"
+msgstr "شکل دکمه"
+
+#: includes/Elements/Alert/Alert.php:73 includes/Elements/Button/Button.php:145
+msgid "Info"
+msgstr "اطلاعات"
+
+#: includes/Elements/Alert/Alert.php:85 includes/Elements/Button/Button.php:141
+msgid "Warning"
+msgstr "هشدار"
+
+#: includes/Elements/Alert/Alert.php:81 includes/Elements/Button/Button.php:137
+msgid "Danger"
+msgstr "خطر"
+
+#: includes/Elements/Button/Button.php:133
+msgid "Succes"
+msgstr "موفقیت"
+
+#: includes/Elements/Button/Button.php:129
+msgid "White"
+msgstr "سفید"
+
+#: includes/Elements/Button/Button.php:125
+msgid "Gray"
+msgstr "خاکستری"
+
+#: includes/Elements/Button/Button.php:121
+msgid "Dark"
+msgstr "تاریک"
+
+#: includes/Elements/Button/Button.php:343 includes/Elements/Icon/Icon.php:386
+#: includes/Elements/IconBox/IconBox.php:224
+#: includes/Elements/IconList/IconList.php:267
+#: includes/Elements/Separator/Separator.php:403
+msgid "Icon styles"
+msgstr "استایل های آیکون"
+
+#: includes/Elements/IconList/IconList.php:251
+msgid "Item styles"
+msgstr "استایل های آیتم"
+
+#: includes/Elements/IconList/IconList.php:188
+msgid "Enter item text"
+msgstr "متن مورد را وارد کنید"
+
+#: includes/Elements/Button/Button.php:92 includes/Elements/Icon/Icon.php:79
+#: includes/Elements/IconBox/IconBox.php:78
+#: includes/Elements/IconList/IconList.php:177
+#: includes/Elements/Separator/Separator.php:283
+msgid "Choose an icon"
+msgstr "یک آیکون انتخاب کن"
+
+#: includes/Elements/Button/Button.php:91 includes/Elements/Icon/Icon.php:40
+#: includes/Elements/Icon/Icon.php:78 includes/Elements/IconBox/IconBox.php:77
+#: includes/Elements/IconList/IconList.php:176
+#: includes/Elements/Separator/Separator.php:282
+msgid "Icon"
+msgstr "آیکون"
+
+#: includes/Elements/IconList/IconList.php:139
+msgid "Add new list item"
+msgstr "مورد جدیدی به لیست اضافه کنید"
+
+#: includes/Elements/IconList/IconList.php:138
+msgid "List items"
+msgstr "لیست آیتم ها"
+
+#: includes/Elements/Button/Button.php:308
+#: includes/Elements/IconList/IconList.php:120
+msgid "bottom"
+msgstr "پایین"
+
+#: includes/Elements/Button/Button.php:304
+#: includes/Elements/IconList/IconList.php:116
+msgid "top"
+msgstr "top"
+
+#: includes/Elements/Button/Button.php:265
+#: includes/Elements/Button/Button.php:300
+#: includes/Elements/Counter/Counter.php:156
+#: includes/Elements/IconList/IconList.php:112
+msgid "right"
+msgstr "راست"
+
+#: includes/Elements/Counter/Counter.php:148
+#: includes/Elements/IconList/IconList.php:108
+msgid "left"
+msgstr "چپ"
+
+#: includes/Elements/IconList/IconList.php:85
+msgid "row"
+msgstr "ردیف"
+
+#: includes/Elements/IconList/IconList.php:81
+msgid "column"
+msgstr "ستون"
+
+#: includes/Elements/IconList/IconList.php:39
+msgid "Icon List"
+msgstr "لیست آیکون"
+
+#: includes/Localization.php:687
+msgid "There was an error loading the content. Please refresh and try again"
+msgstr "هنگام بارگیری محتوا خطایی روی داد‬‫.‬‫ لطفاً تازه سازی کنید و دوباره امتحان کنید"
+
+#: includes/Localization.php:686
+msgid "This is an autosave. Edit your page and when you're ready press the \"Save and Publish Page\" button."
+msgstr "این ذخیره خودکار است‬‫.‬‫ صفحه خود را ویرایش کنید و هنگامی که آماده شدید دکمه \"ذخیره و انتشار صفحه\" را فشار دهید‬‫.‬‫"
+
+#: includes/Localization.php:683
+msgid "Please edit the element options"
+msgstr "لطفا گزینه های اِلمان را ویرایش کنید"
+
+#: includes/Localization.php:682
+msgid "Use server version"
+msgstr "از نسخه سرور استفاده کنید"
+
+#: includes/Localization.php:681
+msgid "Use local version"
+msgstr "از نسخه محلی استفاده کنید"
+
+#: includes/Localization.php:680
+msgid "Newer data is available in local storage. Choose what data to use"
+msgstr "داده های جدیدتر در حافظه محلی موجود است‬‫.‬‫ انتخاب کنید چه داده ای استفاده شود"
+
+#: includes/Localization.php:677
+msgid "Select custom font eot file"
+msgstr "فایل eot فونت سفارشی را انتخاب کنید"
+
+#: includes/Localization.php:676
+msgid "Select custom font svg file"
+msgstr "فایل svg فونت سفارشی را انتخاب کنید"
+
+#: includes/Localization.php:675
+msgid "Select custom font ttf file"
+msgstr "فایل ttf فونت سفارشی را انتخاب کنید"
+
+#: includes/Localization.php:673
+msgid "Select custom font woff file"
+msgstr "فایل woff فونت سفارشی را انتخاب کنید"
+
+#: includes/Localization.php:672
+msgid "Set custom font weight"
+msgstr "وزن فونت سفارشی را تنظیم کنید"
+
+#: includes/Localization.php:671
+msgid "Choose custom font name"
+msgstr "نام فونت سفارشی را انتخاب کنید"
+
+#: includes/Localization.php:668
+msgid "Add a link"
+msgstr "یک پیوند اضافه کنید"
+
+#: includes/Elements/Heading/Heading.php:39 includes/Localization.php:665
+msgid "Heading"
+msgstr "عنوان"
+
+#: includes/Localization.php:664
+msgid "Size"
+msgstr "اندازه"
+
+#: includes/Localization.php:628
+msgid "Set incremental value"
+msgstr "مقدار افزایشی را تنظیم کنید"
+
+#: includes/Localization.php:627
+msgid "When dragging toolbox"
+msgstr "هنگام کشیدن جعبه ابزار"
+
+#: includes/Localization.php:626
+msgid "When dragging element"
+msgstr "هنگام کشیدن عنصر"
+
+#: includes/Localization.php:625
+msgid "Toggle page options"
+msgstr "گزینه های صفحه را تغییر دهید"
+
+#: includes/Localization.php:624
+msgid "Toggle Tree View Panel"
+msgstr "پانل نمایش درختی را تغییر دهید"
+
+#: includes/Localization.php:623
+msgid "Toggle Library Panel"
+msgstr "پانل کتابخانه را تغییر دهید"
+
+#: includes/Localization.php:622
+msgid "Toggle preview mode"
+msgstr "تغییر حالت پیش نمایش"
+
+#: includes/Localization.php:621
+msgid "Hide element"
+msgstr "پنهان کردن اِلمان"
+
+#: includes/Localization.php:620
+msgid "Redo"
+msgstr "دوباره انجام دادن"
+
+#: includes/Localization.php:619
+msgid "Undo"
+msgstr "بازگشت"
+
+#: includes/Localization.php:618
+msgid "Paste classes"
+msgstr "چسباندن کلاس ها"
+
+#: includes/Localization.php:617
+msgid "Copy classes"
+msgstr "کلاسها را کپی کنید"
+
+#: includes/Localization.php:614
+msgid "Duplicate"
+msgstr "تکراری"
+
+#: includes/Localization.php:578
+msgid "Check to have access to editor"
+msgstr "بررسی کنید تا به ویرایشگر دسترسی داشته باشید"
+
+#: includes/Localization.php:575
+msgid "This user already has permissions. Click to remove"
+msgstr "این کاربر از قبل مجوزها را دارد‬‫.‬‫ برای حذف کلیک کنید"
+
+#. translators: %s is the whitelabel plugin name
+#: includes/Localization.php:570
+msgctxt "zionbuilder"
+msgid "Enter your old and new URLs for your WordPress installation, to update all %s data (Relevant for domain transfers or move to \"HTTPS\")."
+msgstr "برای نصب وردپرس‬‫،‬‫ آدرس های قدیمی و جدید خود را وارد کنید تا تمام داده های زاین به روز شود ‬‫(‬‫مربوط به انتقال دامنه یا انتقال به \"HTTPS\"‬‫)‬‫‬‫.‬‫"
+
+#: includes/Localization.php:566
+msgid "Update URL"
+msgstr "به روز رسانی آدرس"
+
+#: includes/Localization.php:565
+msgid "Update Site Address (URL)"
+msgstr "به روز رسانی آدرس سایت"
+
+#: includes/Localization.php:562
+msgid "Templates allow you to easily build a WordPress page"
+msgstr "الگوها به شما این امکان را می دهند که به راحتی یک صفحه وردپرس بسازید"
+
+#: includes/Localization.php:559
+msgid "Manage the smart areas you want to use in your project"
+msgstr "مناطق هوشمندی را که می خواهید در پروژه خود استفاده کنید مدیریت کنید"
+
+#: includes/Localization.php:556
+msgid "Add Display Condition"
+msgstr "شرایط نمایش را اضافه کنید"
+
+#: includes/Localization.php:553
+msgid "Create a new template by choosing the template type and adding a name"
+msgstr "با انتخاب نوع الگو و افزودن نام‬‫،‬‫ الگوی جدیدی ایجاد کنید"
+
+#: includes/Localization.php:550
+msgid "Manage your wordpress users permissions. Adding a new user will allow the basic permissions which can be edited afterwards."
+msgstr "مجوزهای کاربران وردپرس خود را مدیریت کنید‬‫.‬‫ افزودن کاربر جدید به مجوزهای اساسی اجازه می دهد که پس از آن ویرایش شوند‬‫.‬‫"
+
+#: includes/Localization.php:546
+msgid "Manage the permissions by selecting which users are allowed to use the page builder. Select to edit only the content, the post types such as Post, Pages, and the main features such as the header and the footer builder."
+msgstr "مجوزهای کاربران خود را مدیریت کنید‬‫.‬‫ اگر می خواهید کاربران مجاز به استفاده از صفحه ساز باشند‬‫،‬‫ به نسخه حرفه ای ارتقا دهید‬‫.‬‫ محتوا را برای ویرایش انتخاب کنید مانند انواع پست مثل پست های بلاگی‬‫،‬‫ صفحات و سرصفحه و پاورقی‬‫.‬‫"
+
+#: includes/Localization.php:543
+msgid "Create Astonishing Gradients that you will use in all the pages of your website"
+msgstr "گرادینت شگفت انگیزی ایجاد کنید که از آن در تمام صفحات وب سایت خود می خواهید استفاده کنید"
+
+#: includes/Localization.php:542
+msgid "Delete this color from your preset"
+msgstr "این رنگ را از پیش تعیین شده خود حذف کنید"
+
+#: includes/Localization.php:539
+msgid "Delete this gradient from your preset"
+msgstr "این گرادینت را از پیش تعیین شده خود حذف کنید"
+
+#: includes/Localization.php:536
+msgid "has never been easier. Choose which ones to use for your website's stylish typography"
+msgstr "هرگز به این آسانی نبوده است انتخاب کنید که کدام یک را برای تایپوگرافی زیبای وب سایت خود استفاده کنید"
+
+#: includes/Localization.php:492
+msgid "Add your option"
+msgstr "گزینه های خود را اضافه کنید"
+
+#: includes/Localization.php:489
+msgid "No images selected"
+msgstr "هیچ تصویری انتخاب نشده است"
+
+#: includes/Localization.php:488
+msgid "No video Selected"
+msgstr "هیچ ویدیویی انتخاب نشده است"
+
+#: includes/Localization.php:487
+msgid "Your browser does not support HTML5 video."
+msgstr "مرورگر شما از ویدئو HTML5 پشتیبانی نمی کند‬‫.‬‫"
+
+#: includes/Localization.php:483
+msgid "element not found"
+msgstr "اِلمان وجود ندارد"
+
+#: includes/Localization.php:480
+msgid "ADD TRANSFORM PROPERTY"
+msgstr "ویژگی TRANSFORM را اضافه کنید"
+
+#: includes/Localization.php:477
+msgid "Link Url"
+msgstr "آدرس پیوند"
+
+#: includes/Localization.php:476
+msgid "Link Title"
+msgstr "عنوان پیوند"
+
+#: includes/Localization.php:475
+msgid "Link Target"
+msgstr "هدف پیوند"
+
+#: includes/Localization.php:474
+msgid "Set a title"
+msgstr "عنوان را تعیین کنید"
+
+#: includes/Localization.php:472
+msgid "New Window"
+msgstr "پنجره جدید"
+
+#: includes/Elements/Container/Container.php:301 includes/Localization.php:445
+msgid "Justify"
+msgstr "جاستیفای"
+
+#: includes/Localization.php:444
+msgid "Align right"
+msgstr "تراز راست"
+
+#: includes/Localization.php:443
+msgid "Align center"
+msgstr "تراز وسط"
+
+#: includes/Localization.php:442
+msgid "Align left"
+msgstr "تراز چپ"
+
+#: includes/Localization.php:439
+msgid "Background blend mode description"
+msgstr "توضیحات برای ترکیب پس زمینه"
+
+#: includes/Localization.php:438
+msgid "Blend mode"
+msgstr "حالت ترکیب"
+
+#: includes/Localization.php:436
+msgid "Description for background clip"
+msgstr "توضیحات برای برش پس زمینه"
+
+#: includes/Localization.php:435
+msgid "Select background clip"
+msgstr "کلیپ پس زمینه را انتخاب کنید"
+
+#: includes/Localization.php:433
+msgid "Description for background size"
+msgstr "توضیحات برای اندازه پس زمینه"
+
+#: includes/Localization.php:432
+msgid "Background Size"
+msgstr "اندازه پس زمینه"
+
+#: includes/Localization.php:431
+msgid "Description for background description"
+msgstr "توضیحات برای اندازه پس زمینه"
+
+#: includes/Localization.php:430
+msgid "Background position"
+msgstr "موقعیت پس زمینه"
+
+#: includes/Localization.php:428
+msgid "Background Attachment"
+msgstr "‫پیوست پس زمینه"
+
+#: includes/Localization.php:427
+msgid "Select background attachment"
+msgstr "‫پیوست پس زمینه را انتخاب کنید"
+
+#: includes/Elements/PricingBox/PricingBox.php:247
+msgid "Featured Label styles"
+msgstr "‫استایل های ویژه برچسب"
+
+#: includes/Elements/PricingBox/PricingBox.php:216
+msgid "Borders color"
+msgstr "‫رنگ حاشیه ها"
+
+#: includes/Elements/PricingBox/PricingBox.php:196
+msgid "Select 'YES' if you want this Plan to have a featured badge"
+msgstr "‫اگر می خواهید این طرح دارای یک نشان ویژه باشد‬‫،‬‫ \"بله\" را انتخاب کنید"
+
+#: includes/Elements/PricingBox/PricingBox.php:194
+msgid "Plan featured?"
+msgstr "‫برنامه ویژه است‬‫؟‬‫"
+
+#: includes/Elements/PricingBox/PricingBox.php:186
+msgid "Button link"
+msgstr "‫پیوند دکمه"
+
+#: includes/Elements/PricingBox/PricingBox.php:185
+msgid "Add a link for the Button"
+msgstr "‫یک پیوند به دکمه اضافه کنید"
+
+#: includes/Elements/PricingBox/PricingBox.php:174
+msgid "Select this plan"
+msgstr "‫این برنامه را انتخاب کنید"
+
+#: includes/Elements/PricingBox/PricingBox.php:172
+msgid "Set the desired text for the button."
+msgstr "‫متن دلخواه را برای دکمه تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/PricingBox/PricingBox.php:160
+msgid "<p>20+ Proactively</p><p>facilitate 150+ Alternative</p><p>Vectors quality</p><p>Strategic themes</p><p>Brand</p><p>Intellectual capital</p><p>Proactive applications</p>"
+msgstr "‫<p> بیش از 20 سال سابقه </p> <p> بیش از 150 راه حل تسهیل کننده </p> <p> نمودار کیفیتی </p> <p> طراحی منحصر به فرد </p> <p> برند سازی </p> <p> سرمایه فکری </p> <p> برنامه های فعال </p>"
+
+#: includes/Elements/PricingBox/PricingBox.php:159
+msgid "Please add each feature on a new line"
+msgstr "‫لطفاً هر ویژگی را در یک خط جدید اضافه کنید"
+
+#: includes/Elements/PricingBox/PricingBox.php:149
+#: includes/Elements/PricingBox/PricingBox.php:150
+msgid "/month"
+msgstr "‫/ماه"
+
+#: includes/Elements/PricingBox/PricingBox.php:148
+msgid "Period"
+msgstr "‫دوره"
+
+#: includes/Elements/PricingBox/PricingBox.php:139
+msgid "$999"
+msgstr "$999"
+
+#: includes/Elements/PricingBox/PricingBox.php:138
+msgid "Choose price"
+msgstr "‫قیمت را انتخاب کنید"
+
+#: includes/Elements/PricingBox/PricingBox.php:137
+msgid "Price"
+msgstr "‫قیمت"
+
+#: includes/Elements/Column/Column.php:318
+msgid "Space-between"
+msgstr "Space-between"
+
+#: includes/Elements/Column/Column.php:313
+#: includes/Elements/Column/Column.php:401
+#: includes/Elements/Section/Section.php:339
+#: includes/Elements/Section/Section.php:427
+msgid "Bottom"
+msgstr "‫پایین"
+
+#: includes/Elements/Column/Column.php:297
+#: includes/Elements/Column/Column.php:385
+#: includes/Elements/Section/Section.php:323
+#: includes/Elements/Section/Section.php:411
+msgid "Inner content vertical alignment"
+msgstr "‫ترازبندی عمودی محتوای داخلی"
+
+#: includes/Elements/Column/Column.php:296
+#: includes/Elements/Column/Column.php:384
+#: includes/Elements/Section/Section.php:322
+#: includes/Elements/Section/Section.php:410
+msgid "Inner content vertical alignment layout"
+msgstr "‫چیدمان تراز عمودی محتوای داخلی"
+
+#: includes/Elements/Column/Column.php:278
+msgid "Baseline"
+msgstr "Baseline"
+
+#: includes/Elements/Column/Column.php:273
+msgid "Stretch"
+msgstr "Stretch"
+
+#: includes/Elements/Column/Column.php:268
+#: includes/Elements/Column/Column.php:356
+#: includes/Elements/Section/Section.php:294
+#: includes/Elements/Section/Section.php:382
+#: includes/Elements/Testimonial/Testimonial.php:183
+msgid "Right"
+msgstr "‫راست"
+
+#: includes/Elements/Column/Column.php:263
+#: includes/Elements/Column/Column.php:308
+#: includes/Elements/Testimonial/Testimonial.php:179
+msgid "Center"
+msgstr "Center"
+
+#: includes/Elements/Column/Column.php:258
+#: includes/Elements/Column/Column.php:346
+#: includes/Elements/Section/Section.php:284
+#: includes/Elements/Section/Section.php:372
+#: includes/Elements/Testimonial/Testimonial.php:175
+msgid "Left"
+msgstr "‫چپ"
+
+#: includes/Elements/Column/Column.php:253
+#: includes/Elements/Column/Column.php:341
+#: includes/Elements/Section/Section.php:279
+#: includes/Elements/Section/Section.php:367
+msgid "Inner content horizontal alignment"
+msgstr "‫تراز افقی محتوای داخلی"
+
+#: includes/Elements/Column/Column.php:252
+#: includes/Elements/Column/Column.php:340
+#: includes/Elements/Section/Section.php:278
+#: includes/Elements/Section/Section.php:366
+msgid "Inner content horizontal alignment layout"
+msgstr "‫چیدمان افقی محتوای داخلی"
+
+#: includes/Elements/Column/Column.php:241
+#: includes/Elements/Container/Container.php:234
+#: includes/Elements/Section/Section.php:267
+msgid "horizontal"
+msgstr "‫افقی"
+
+#: includes/Elements/Column/Column.php:237
+#: includes/Elements/Container/Container.php:230
+#: includes/Elements/Section/Section.php:263
+msgid "vertical"
+msgstr "‫عمودی"
+
+#: includes/Elements/Column/Column.php:231
+#: includes/Elements/Section/Section.php:257
+msgid "Content orientation"
+msgstr "‫جهت گیری محتوا"
+
+#: includes/Elements/Sidebar/Sidebar.php:37
+msgid "Sidebar"
+msgstr "‫نوار کناری"
+
+#: includes/Elements/Accordions/Accordions.php:212
+#: includes/Elements/Tabs/Tabs.php:164
+msgid "Content styles"
+msgstr "‫استایل های محتوا"
+
+#: includes/Elements/Tabs/Tabs.php:120
+msgid "Stacked"
+msgstr "انباشته"
+
+#: includes/Elements/Tabs/Tabs.php:116
+msgid "Vertical"
+msgstr "عمودی"
+
+#: includes/Elements/Tabs/Tabs.php:112
+msgid "Horizontal"
+msgstr "‫افقی"
+
+#: includes/Elements/Manager.php:204 includes/Elements/Tabs/Tabs.php:109
+#: includes/Localization.php:794
+msgid "Layout"
+msgstr "چیدمان"
+
+#: includes/Elements/Tabs/Tabs.php:40 includes/Elements/Tabs/Tabs.php:77
+msgid "Tabs"
+msgstr "‫زبانه ها"
+
+#: includes/Elements/Tabs/TabsItem.php:80
+msgid "Tab content"
+msgstr "‫زبانه محتوا"
+
+#: includes/Elements/Tabs/TabsItem.php:71
+msgid "Tab title"
+msgstr "‫زبانه عنوان"
+
+#: includes/Elements/Tabs/TabsItem.php:51
+msgid "Tab Item"
+msgstr "‫زبانه آیتم"
+
+#: includes/Elements/Video/Video.php:131
+msgid "Show play icon"
+msgstr "‫آیکون پخش را نشان دهید"
+
+#: includes/Elements/Video/Video.php:111
+msgid "Image overlay"
+msgstr "‫همپوشانی تصویر"
+
+#: includes/Elements/Video/Video.php:102
+msgid "Use image overlay?"
+msgstr "‫از همپوشانی تصویر استفاده شود‬‫؟‬‫"
+
+#: includes/Elements/Video/Video.php:40
+msgid "Video"
+msgstr "‫ویدئو"
+
+#: includes/Localization.php:690
+msgid "Featured"
+msgstr "‫ویژه"
+
+#: includes/Localization.php:613 includes/Localization.php:722
+msgid "Paste"
+msgstr "‫چسباندن"
+
+#: includes/Localization.php:612 includes/Localization.php:721
+msgid "Copy"
+msgstr "‫کپی"
+
+#: includes/Localization.php:610
+msgid "Preview not available"
+msgstr "‫پیش نمایش در دسترس نیست"
+
+#: includes/Localization.php:609
+msgid "The element is hidden. Click to enable it."
+msgstr "‫الِمان پنهان شده است‬‫.‬‫ برای فعال کردن کلیک کنید‬‫.‬‫"
+
+#: includes/Localization.php:606
+msgid "Click to globally delete this class"
+msgstr "‫برای حذف سراسری این کلاس کلیک کنید"
+
+#: includes/Localization.php:605
+msgid "Click to edit this class"
+msgstr "‫برای ویرایش این کلاس کلیک کنید"
+
+#: includes/Localization.php:602
+msgid "Click to add content for pseudo selector."
+msgstr "‫برای افزودن محتوا برای انتخابگر ساختگی کلیک کنید‬‫.‬‫"
+
+#: includes/Localization.php:599
+msgid "Discard changes"
+msgstr "‫لغو تغییرات"
+
+#: includes/Localization.php:593
+msgid "Discard changes for"
+msgstr "‫صرفنظر از تغییرات"
+
+#: includes/Localization.php:582
+msgid "Delete permissions for this user"
+msgstr "‫مجوزهای این کاربر را حذف کنید"
+
+#: includes/Localization.php:581
+msgid "Customize the permissions for this user"
+msgstr "‫مجوزهای این کاربر را سفارشی کنید"
+
+#: includes/Localization.php:471
+msgid "Add an URL"
+msgstr "‫یک URL اضافه کنید"
+
+#: includes/Localization.php:463
+msgid "or"
+msgstr "یا"
+
+#: includes/Localization.php:462
+msgid "Add new background gradient"
+msgstr "‫گرادینت پس زمینه جدید اضافه کنید"
+
+#: includes/Localization.php:461
+msgid "Select from library"
+msgstr "‫از کتابخانه انتخاب کنید"
+
+#: includes/Localization.php:458
+msgid "Flip mask horizontally"
+msgstr "‫ماسک را به صورت افقی بزنید"
+
+#: includes/Localization.php:457
+msgid "Bottom masks"
+msgstr "‫ماسک های پایین"
+
+#: includes/Localization.php:455
+msgid "Add a color to mask"
+msgstr "‫یک رنگ به ماسک اضافه کنید"
+
+#: includes/Localization.php:454
+msgid "Add mask height"
+msgstr "‫ارتفاع ماسک را اضافه کنید"
+
+#: includes/Localization.php:453
+msgid "Selected bottom mask"
+msgstr "‫ماسک پایین انتخاب شده است"
+
+#: includes/Localization.php:452
+msgid "Selected top mask"
+msgstr "‫ماسک بالا انتخاب شده است"
+
+#: includes/Localization.php:451
+msgid "Mask position"
+msgstr "‫موقعیت ماسک"
+
+#: includes/Localization.php:450
+msgid "The shape you were looking for is not listed above ?"
+msgstr "‫شکل مورد نظر شما در بالا ذکر نشده است‬‫؟‬‫"
+
+#: includes/Localization.php:449
+msgid "More shape dividers"
+msgstr "‫باقی شکل تقسیم کننده ها"
+
+#: includes/Localization.php:448
+msgid "Select shape divider"
+msgstr "‫شکل تقسیم کننده را انتخاب کنید"
+
+#: includes/Localization.php:401
+msgid "From the main bar, you can open and close treeview, history, library and general settings panels. <br/><br/> Now click on the icon to see the history of your actions"
+msgstr "‫از نوار اصلی می توانید پانل های نمای درخت‬‫،‬‫ تاریخچه‬‫،‬‫ کتابخانه و تنظیمات کلی را باز و بسته کنید‬‫.‬‫ <br/> <br/> اکنون برای دیدن تاریخچه اقدامات خود بر روی آیکون کلیک کنید"
+
+#: includes/Localization.php:400
+msgid "Open the panels"
+msgstr "‫پانل ها را باز کنید"
+
+#: includes/Localization.php:399
+msgid "Create design for the desired device. When you hover the icon, the other devices flyout will appear. If you choose laptop or mobile and set options from the panel, your webpage will look exactly as in preview."
+msgstr "‫یک طرح را برای دستگاه های مختلف ایجاد کنید‬‫.‬‫ وقتی روی آیکون بروید‬‫،‬‫ دستگاه های دیگر ظاهر می شوند‬‫.‬‫ اگر لپ تاپ یا تلفن همراه را انتخاب کنید و ویژگی هایی را اضافه کنید‬‫،‬‫ صفحه وب شما همانند پیش نمایش خواهد بود‬‫.‬‫"
+
+#: includes/Localization.php:398
+msgid "Choose device"
+msgstr "‫دستگاه را انتخاب کنید"
+
+#: includes/Localization.php:397
+msgid "The active tab is the <b>\"Advanced tab\"</b>. Changing the name, adding a unique Id, animations, custom Css,or element visibility could be done from the advanced tab. This tab settings are also the same for all the elements. <br/><br/>Click on the top right <b>\"x\"</b> button to close the panel"
+msgstr "‫زبانه فعال <b> \"زبانه پیشرفته\" </b> است‬‫.‬‫ تغییر نام‬‫،‬‫ افزودن شناسه منحصر به فرد‬‫،‬‫ انیمیشن ها‬‫،‬‫ Css سفارشی یا قابلیت مشاهده از طریق زبانه پیشرفته انجام می شود‬‫.‬‫ این تنظیمات برگه برای همه الِمان ها نیز یکسان است‬‫.‬‫ <br/> <br/> برای بستن پانل بر روی دکمه بالا سمت راست <b> \"x\" کلیک کنید"
+
+#: includes/Localization.php:396
+msgid "Close the panel"
+msgstr "‫پانل را ببندید"
+
+#: includes/Localization.php:394
+msgid "Go to Advanced Tab"
+msgstr "‫به زبانه پیشرفته بروید"
+
+#: includes/Localization.php:390
+msgid "Edit Element options"
+msgstr "‫گزینه های اِلمان را ویرایش کنید"
+
+#: includes/Localization.php:388
+msgid "Add a template to your page"
+msgstr "‫الگویی به صفحه خودتان اضافه کنید"
+
+#: includes/Localization.php:386
+msgid "Go to columns tab"
+msgstr "‫به زبانه ستون ها بروید"
+
+#: includes/Localization.php:384
+msgid "Go to library tab"
+msgstr "‫به زبانه کتابخانه بروید"
+
+#: includes/Localization.php:382 includes/Localization.php:392
+msgid "Click the highlighted tab"
+msgstr "‫روی زبانه برجسته کلیک کنید"
+
+#: includes/Localization.php:356
+msgid "Now"
+msgstr "‫اکنون"
+
+#: includes/Localization.php:351
+msgid "Start typing in the search field and the found options will appear here"
+msgstr "‫در قسمت جستجو تایپ کنید و گزینه های پیدا شده در اینجا ظاهر می شوند"
+
+#: includes/Localization.php:348
+msgid "oops, something went wrong!"
+msgstr "‫اوه‬‫،‬‫ مشکلی پیش آمد‬‫!‬‫"
+
+#: includes/Localization.php:344
+msgid "You are up to date!"
+msgstr "‫شما به روز هستید‬‫!‬‫"
+
+#: includes/Localization.php:343
+msgid "Not installed!"
+msgstr "‫نصب نشده‬‫!‬‫"
+
+#: includes/Localization.php:342
+msgid "Activate PRO"
+msgstr "‫نسخه حرفه ای را فعال کنید"
+
+#: includes/Localization.php:341
+msgid "Buy Pro"
+msgstr "‫خرید نسخه حرفه ای"
+
+#: includes/Localization.php:340
+msgid "Update to version"
+msgstr "‫بروز رسانی به نسخه"
+
+#: includes/Localization.php:339
+msgid "View changelog"
+msgstr "‫مشاهده تغییرات"
+
+#: includes/Localization.php:338
+msgid "FREE"
+msgstr "رایگان"
+
+#: includes/Localization.php:337
+msgid "Do you need help?"
+msgstr "‫آیا به کمک احتیاج دارید‬‫؟‬‫"
+
+#: includes/Localization.php:332
+msgid "Save changes"
+msgstr "‫ذخیره تغییرات"
+
+#: includes/Localization.php:311
+msgid "browse"
+msgstr "‫مرور کردن"
+
+#: includes/Localization.php:310
+msgid "Drag and drop your exported item here or just click to "
+msgstr "‫آیتم برون بری شده خود را در اینجا بکشید و رها کنید یا فقط روی آن کلیک کنید"
+
+#: includes/Localization.php:309
+msgid "No more to show :("
+msgstr "‫چیزی برای نمایش وجود ندارد: ‬‫(‬‫"
+
+#: includes/Localization.php:308
+msgid "Pages"
+msgstr "‫صفحات"
+
+#: includes/Localization.php:307
+msgid "Go Back"
+msgstr "بازگشت"
+
+#: includes/Localization.php:306
+msgid "Sort"
+msgstr "مرتب سازی"
+
+#: includes/Localization.php:305
+msgid "My favorites"
+msgstr "‫علایق من"
+
+#: includes/Localization.php:304
+msgid "Favorites"
+msgstr "علایق"
+
+#: includes/Localization.php:303
+msgid "Import"
+msgstr "وارد كردن"
+
+#: includes/Localization.php:302
+msgid "Testimonials"
+msgstr "نظرات مشتریان"
+
+#: includes/Localization.php:301
+msgid "Search in this library"
+msgstr "‫جستجو در این کتابخانه"
+
+#: includes/Localization.php:298
+msgid "December"
+msgstr "‫دسامبر"
+
+#: includes/Localization.php:297
+msgid "November"
+msgstr "‫نوامبر"
+
+#: includes/Localization.php:296
+msgid "October"
+msgstr "اکتبر"
+
+#: includes/Localization.php:295
+msgid "September"
+msgstr "سپتامبر"
+
+#: includes/Localization.php:279
+msgid "Set time"
+msgstr "‫تنظیم کردن url"
+
+#: includes/Localization.php:278
+msgid "Previous month"
+msgstr "ماه گذشته"
+
+#: includes/Localization.php:277
+msgid "Next Month"
+msgstr "‫ماه بعد"
+
+#: includes/Localization.php:276
+msgid "Seconds"
+msgstr "‫ثانیه ها"
+
+#: includes/Localization.php:275
+msgid "Minutes"
+msgstr "‫دقایق"
+
+#: includes/Localization.php:274
+msgid "Hours"
+msgstr "ساعت ها"
+
+#: includes/Localization.php:273
+msgid "Days"
+msgstr "روزها"
+
+#: includes/Localization.php:271
+msgid "Custom Height"
+msgstr "‫ارتفاع سفارشی"
+
+#: includes/Localization.php:270
+msgid "Custom Width"
+msgstr "‫عرض سفارشی"
+
+#: includes/Localization.php:268
+msgid "Remove class from element."
+msgstr "‫حذف کلاس از اِلمان‬‫.‬‫"
+
+#: includes/Localization.php:267
+msgid "No elements found matching the search criteria"
+msgstr "‫هیچ اِلمانی مطابق با معیارهای جستجو یافت نشد"
+
+#: includes/Localization.php:263 includes/Localization.php:659
+msgid "This page was successfully saved"
+msgstr "‫این صفحه با موفقیت ذخیره شد"
+
+#: includes/Localization.php:262
+msgid "This page was successfully saved and published"
+msgstr "‫این صفحه با موفقیت ذخیره و منتشر شد"
+
+#: includes/Localization.php:254
+msgid "Wireframe"
+msgstr "‫طرح چارچوبی"
+
+#: includes/Localization.php:253
+msgid "Section view"
+msgstr "‫نمای بخش"
+
+#: includes/Localization.php:231
+msgid "Toolbox"
+msgstr "‫جعبه ابزار"
+
+#: includes/Localization.php:230
+msgid "Close"
+msgstr "‫بستن"
+
+#: includes/Localization.php:229
+msgid "Open"
+msgstr "‫باز کردن"
+
+#: includes/Localization.php:227
+msgid "Cut Element"
+msgstr "برش الِمان"
+
+#: includes/Localization.php:228
+msgid "Delete Element"
+msgstr "‫حذف الِمان"
+
+#: includes/Localization.php:226
+msgid "Copy element style"
+msgstr "استایل الِمان را کپی کنید"
+
+#: includes/Localization.php:224 includes/Localization.php:225
+msgid "Show Element "
+msgstr "‫نمایش الِمان"
+
+#: includes/Localization.php:223
+msgid "Hide Element "
+msgstr "‫پنهان کردن الِمان"
+
+#: includes/Localization.php:222
+msgid "Rename Element"
+msgstr "تغییر نام الِمان"
+
+#: includes/Localization.php:221
+msgid "Save Element "
+msgstr "ذخیره الِمان"
+
+#: includes/Localization.php:220
+msgid "Edit Element"
+msgstr "‫ویرایش الِمان"
+
+#: includes/Localization.php:218
+msgid "Generating preview..."
+msgstr "‫در حال ایجاد پیش نمایش‬‫.‬‫‬‫.‬‫‬‫.‬‫"
+
+#: includes/Localization.php:217
+msgid "Add new"
+msgstr "‫جدید اضافه کن"
+
+#: includes/Localization.php:211
+msgid "Type in the search below to find an user and press enter to add it."
+msgstr "‫جستجوی زیر را برای یافتن کاربر تایپ کنید و برای افزودن آن‬‫،‬‫ اینتِر را فشار دهید‬‫.‬‫"
+
+#: includes/Elements/IconBox/IconBox.php:205
+#: includes/Elements/ImageBox/ImageBox.php:216
+msgid "Description text"
+msgstr "‫متن توضیحات"
+
+#: includes/Elements/IconBox/IconBox.php:146
+#: includes/Elements/ImageBox/ImageBox.php:157
+msgid "Just a sample title."
+msgstr "‫فقط یک عنوان نمونه‬‫.‬‫"
+
+#: includes/Elements/IconBox/IconBox.php:144
+#: includes/Elements/ImageBox/ImageBox.php:155
+msgid "Set the desired title."
+msgstr "‫عنوان مورد نظر را تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/IconBox/IconBox.php:103
+msgid "Icon on right"
+msgstr "‫آیکون در سمت راست"
+
+#: includes/Elements/IconBox/IconBox.php:99
+msgid "Icon on left"
+msgstr "‫آیکون در سمت چپ"
+
+#: includes/Elements/IconBox/IconBox.php:95
+msgid "Icon on top"
+msgstr "‫آیکون در سمت بالا"
+
+#: includes/Elements/IconBox/IconBox.php:92
+#: includes/Elements/ImageBox/ImageBox.php:104
+msgid "Set the desired timing function for the transition."
+msgstr "‫عملکرد زمان مورد نظر را برای ترنزیشن تنظیم کنید‬‫.‬‫"
+
+#: includes/Elements/IconBox/IconBox.php:39
+msgid "Icon Box"
+msgstr "‫جعبه آیکون"
+
+#: includes/Elements/Gallery/Gallery.php:236
+msgid "No images selected."
+msgstr "‫هیچ تصویری انتخاب نشده است‬‫.‬‫"
+
+#: includes/Elements/Gallery/Gallery.php:171
+msgid "Gallery item styles"
+msgstr "‫استایل های گالری"
+
+#: includes/Elements/Gallery/Gallery.php:87
+msgid "Columns"
+msgstr "ستون ها"
+
+#: includes/Elements/Gallery/Gallery.php:40
+#: includes/Elements/Gallery/Gallery.php:143
+msgid "Gallery"
+msgstr "گالری"
+
+#: includes/Elements/AnchorPoint/AnchorPoint.php:77
+msgid "Please enter an id for this anchor point. You can use this #id for an anchor href."
+msgstr "‫لطفا یک شناسه برای نقطه ‬‫(‬‫آنکور‬‫)‬‫ لنگر وارد کنید‬‫.‬‫ شما میتوانید از کد #id برای ‬‫(‬‫آنکور‬‫)‬‫ لنگر href استفاده کنید‬‫.‬‫"
+
+#: includes/Elements/AnchorPoint/AnchorPoint.php:76
+msgid "Id"
+msgstr "‫شناسه"
+
+#: includes/Elements/AnchorPoint/AnchorPoint.php:39
+msgid "Anchor point"
+msgstr "‫نقطه آنکور ‬‫(‬‫Anchor‬‫)‬‫"
+
+#: includes/Localization.php:663
+msgid "family"
+msgstr "‫خانواده"
+
+#: includes/Localization.php:662
+msgid "Target"
+msgstr "‫هدف پیوند"
+
+#: includes/Localization.php:658
+msgid "Save & Publish Page"
+msgstr "‫صفحه را ذخیره و منتشر کنید"
+
+#: includes/Localization.php:657
+msgid "Save Page"
+msgstr "‫صفحه را ذخیره کنید"
+
+#: includes/Localization.php:656
+msgid "Save Template"
+msgstr "‫الگو را ذخیره کنید"
+
+#: includes/Localization.php:637
+msgid "Key shortcuts"
+msgstr "‫میانبرهای اصلی"
+
+#: includes/Localization.php:636
+msgid "Start tour"
+msgstr "‫تور را شروع کنید"
+
+#: includes/Localization.php:635
+msgid "Help Center"
+msgstr "‫مرکز کمک"
+
+#: includes/Localization.php:634
+msgid "Help"
+msgstr "کمک"
+
+#: includes/Localization.php:631
+msgid "Duplicate element in place"
+msgstr "‫اِلمان تکراری در این محل"
+
+#: includes/Localization.php:630
+msgid "Set even values"
+msgstr "‫مقدار مساوی را تنظیم کنید"
+
+#: includes/Localization.php:629
+msgid "Set even incremental value"
+msgstr "‫مقدار افزایشی را تنظیم کنید"
+
+#: includes/Localization.php:426
+msgid "Select background repeat"
+msgstr "‫تکرار پس زمینه را انتخاب کنید"
+
+#: includes/Localization.php:425
+msgid "Description for background repeat"
+msgstr "‫توضیحات برای تکرار پس زمینه"
+
+#: includes/Localization.php:424
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: includes/Localization.php:418
+msgid "Select background color"
+msgstr "‫رنگ پس زمینه را انتخاب کنید"
+
+#: includes/Localization.php:415
+msgid "Take Over"
+msgstr "‫به عهده گرفتن"
+
+#: includes/Localization.php:414
+msgid "Go back"
+msgstr "بازگشت"
+
+#: includes/Localization.php:412
+msgid "Could not lock current post"
+msgstr "‫قفل کردن پست فعلی امکان پذیر نیست"
+
+#: includes/Localization.php:409
+msgid "If you missed something, you can go back anytime to the “Info Icon” > “Start Tour”. To restart tour, you must be on a new empty page. <br/><br/>Good luck in building the future!"
+msgstr "‫اگر چیزی را از دست داده اید‬‫،‬‫ می توانید در هر زمان به “Info Icon”> “Start Tour” برگردید‬‫.‬‫ برای شروع مجدد تور‬‫،‬‫ باید در یک صفحه خالی جدید باشید‬‫.‬‫ <br/> <br/> در ساختن آینده موفق باشید‬‫!‬‫"
+
+#: includes/Localization.php:408
+msgid "Tour was ended"
+msgstr "‫تور تمام شد"
+
+#: includes/Localization.php:407
+msgid "The treeview panel shows the simplified elements from the page. You cand add elements in the treeview and edit them just like in the page editor. <br/><br/>Now, click on the bottom icon to <b>save</b> the page. If you just hover the icon, a flyout will appear with multiple saving types such as: <b>\"draft\", \"template\" or \"publish\"</b><br/> Saving can also be done with keyshortcuts <b>\"CTRL + S\"</b>"
+msgstr "‫پانل نمایش درختی الِمان ها ساده شده از صفحه را نشان می دهد‬‫.‬‫ شما می توانید الِمان ها را در نمای درختی اضافه کنید و آنها را درست مانند ویرایشگر صفحه ویرایش کنید‬‫.‬‫ <br/> <br/> اکنون برای <b> ذخیره </b> صفحه بر روی آیکون پایین کلیک کنید‬‫.‬‫ اگر فقط آیکون را نگه دارید‬‫،‬‫ یک صفحه با چندین نوع ذخیره مانند: <b> \"پیش نویس\"‬‫،‬‫ \"الگو\" یا \"انتشار\" ظاهر می شود </ </b> <br/> ذخیره نیز با کلیدهای میانبر انجام می شود <b> \"CTRL + S\" </b>"
+
+#: includes/Localization.php:406
+msgid "Save your work"
+msgstr "‫کار خود را ذخیره کنید"
+
+#: includes/Localization.php:405
+msgid "Click on the icon to see the treeview panel of your page"
+msgstr "‫بر روی آیکون کلیک کنید تا صفحه نمای درخت خود را مشاهده کنید"
+
+#: includes/Localization.php:404
+msgid "Open treeview panel"
+msgstr "‫پانل نمای درختی را باز کنید"
+
+#: includes/Localization.php:403
+msgid "When a panel is open, the background of the panel icon becomes darker.<br/><br/> CLick on the icon to close the panel."
+msgstr "‫وقتی پانلی باز است‬‫،‬‫ پس زمینه نماد پانل تیره می شود‬‫.‬‫ <br/> <br/> برای بستن پانل روی آیکون بستن کلیک کنید‬‫.‬‫"
+
+#: includes/Localization.php:402
+msgid "Close the panel from main bar"
+msgstr "‫پانل را از نوار اصلی ببندید"
+
+#: includes/Elements/Counter/Counter.php:76
+msgid "Number: from"
+msgstr "‫شماره: از"
+
+#: includes/Elements/Counter/Counter.php:39
+msgid "Counter"
+msgstr "شمارنده"
+
+#: includes/Elements/Icon/Icon.php:312
+msgid "Icon rotate"
+msgstr "چرخش آیکون"
+
+#: includes/Elements/Icon/Icon.php:293
+msgid "Space around icon"
+msgstr "فضای اطراف آیکون"
+
+#: includes/Elements/Icon/Icon.php:274
+#: includes/Elements/Separator/Separator.php:324
+msgid "Icon size"
+msgstr "اندازه آیکون"
+
+#: includes/Elements/Icon/Icon.php:253
+msgid "Shape Color"
+msgstr "رنگ شکل"
+
+#: includes/Elements/Icon/Icon.php:238
+#: includes/Elements/IconList/IconList.php:208
+#: includes/Elements/Separator/Separator.php:302
+msgid "Icon Color"
+msgstr "‫رنگ آیکون"
+
+#: includes/Elements/Icon/Icon.php:226
+msgid "Hover"
+msgstr "Hover"
+
+#: includes/Elements/Icon/Icon.php:201
+msgid "Icon Styles"
+msgstr "‫استایل های آیکون"
+
+#: includes/Elements/Button/Button.php:181 includes/Elements/Icon/Icon.php:156
+#: includes/Elements/ProgressBars/ProgressBars.php:163
+msgid "Rounded"
+msgstr "گرد شده"
+
+#: includes/Elements/Icon/Icon.php:152
+#: includes/Elements/ProgressBars/ProgressBars.php:167
+msgid "Circle"
+msgstr "دایره"
+
+#: includes/Elements/Icon/Icon.php:148
+#: includes/Elements/ProgressBars/ProgressBars.php:159
+msgid "Square"
+msgstr "مربع"
+
+#: includes/Elements/Icon/Icon.php:143
+msgid "Shape"
+msgstr "شکل"
+
+#: includes/Elements/Icon/Icon.php:126
+msgid "Bordered"
+msgstr "‫حاشیه ای"
+
+#: includes/Localization.php:381
+msgid "The <b>colored circle with \"+\" sign </b> appears each time you hover an element. By clicking on it, a popup will appear from which you can add elements to the page.<br/> <br/>Click on the colored circle that contains <b>\"+ icon\"</b> to add elements or templates to page"
+msgstr "دایره رنگی با علامت \"+\" هر بار که الِمانی را نشان می دهید‬‫،‬‫ نشان داده می شود‬‫.‬‫ با کلیک بر روی آن‬‫،‬‫ پنجره ای ظاهر می شود که می توانید الِمان ها را به صفحه اضافه کنید‬‫.‬‫ <br/> <br/> الِمان ها یا الگوها‬‫،‬‫ روی دایره رنگی حاوی <b> \"+ آیکون\" </b> کلیک کنید و به صفحه اضافه کنید"
+
+#: includes/Localization.php:380
+msgid "Adding elements"
+msgstr "افزودن اِلمان ها"
+
+#: includes/Localization.php:378
+msgid "Welcome to Zion Builder"
+msgstr "به صفحه ساز زاین خوش آمدید"
+
+#: includes/Localization.php:376
+msgid "Previous Step"
+msgstr "‫مرحله قبل"
+
+#: includes/Localization.php:375
+msgid "Next Step"
+msgstr "‫گام بعدی"
+
+#: includes/Localization.php:374
+msgid "Take the tour"
+msgstr "‫گشت بزنید"
+
+#: includes/Localization.php:371
+msgid "Refresh data from the server "
+msgstr "‫داده ها را از سرور تازه سازی کنید"
+
+#: includes/Localization.php:369
+msgid "Click to preview this item"
+msgstr "‫برای پیش نمایش این آیتم کلیک کنید"
+
+#: includes/Localization.php:370
+msgid "Add this item to favorites"
+msgstr "‫این آیتم را به علاقمندی ها اضافه کنید"
+
+#: includes/Localization.php:368
+msgid "Insert this item into page"
+msgstr "‫این آیتم را در صفحه وارد کنید"
+
+#: includes/Localization.php:367
+msgid "Local Library"
+msgstr "‫کتابخانه محلی"
+
+#: includes/Localization.php:366
+msgid "Insert"
+msgstr "قرار دادن"
+
+#: includes/Localization.php:357
+msgid "Initial State"
+msgstr "‫حالت اولیه"
+
+#: includes/Localization.php:294
+msgid "August"
+msgstr "آگوست"
+
+#: includes/Localization.php:293
+msgid "July"
+msgstr "جولای"
+
+#: includes/Localization.php:292
+msgid "June"
+msgstr "ژوئن"
+
+#: includes/Localization.php:291
+msgid "May"
+msgstr "‫مِی"
+
+#: includes/Localization.php:290
+msgid "April"
+msgstr "آپریل"
+
+#: includes/Localization.php:289
+msgid "March"
+msgstr "مارس"
+
+#: includes/Localization.php:288
+msgid "February"
+msgstr "فوریه"
+
+#: includes/Localization.php:287
+msgid "January"
+msgstr "ژانویه"
+
+#: includes/Localization.php:286
+msgid "Sun"
+msgstr "‫یکشنبه"
+
+#: includes/Localization.php:285
+msgid "Sat"
+msgstr "‫شنبه"
+
+#: includes/Localization.php:284
+msgid "Fri"
+msgstr "جمعه"
+
+#: includes/Localization.php:283
+msgid "Thu"
+msgstr "‫پنج شنبه"
+
+#: includes/Localization.php:282
+msgid "Wed"
+msgstr "‫چهارشنبه"
+
+#: includes/Localization.php:281
+msgid "Tue"
+msgstr "‫سه شنبه"
+
+#: includes/Localization.php:280
+msgid "Mon"
+msgstr "‫دوشنبه"
+
+#: includes/Localization.php:210
+msgid "Search for users"
+msgstr "‫جستجو برای کاربران"
+
+#: includes/Localization.php:209
+msgid "no user added yet"
+msgstr "‫هنوز هیچ کاربری اضافه نشده است"
+
+#: includes/Localization.php:208
+msgid "Permissions"
+msgstr "مجوزها"
+
+#: includes/Localization.php:207
+msgid "Edit only Content"
+msgstr "‫فقط محتوا را ویرایش کنید"
+
+#: includes/Elements/Accordions/AccordionItem.php:81
+#: includes/Elements/Heading/Heading.php:77
+#: includes/Elements/IconList/IconList.php:187
+#: includes/Elements/Manager.php:209 includes/Elements/Tabs/TabsItem.php:79
+#: includes/Elements/Text/Text.php:76 includes/Localization.php:205
+msgid "Content"
+msgstr "محتوا"
+
+#: includes/Elements/PricingBox/PricingBox.php:158
+#: includes/Localization.php:204
+msgid "Features"
+msgstr "امکانات"
+
+#: includes/Localization.php:203
+msgid "Post types"
+msgstr "انواع نوشته"
+
+#: includes/Localization.php:202 includes/Localization.php:206
+msgid "Access to editor"
+msgstr "‫دسترسی به ویرایشگر"
+
+#: includes/Localization.php:201
+msgid "Add a User"
+msgstr "‫یک کاربر اضافه کنید"
+
+#: includes/Localization.php:200
+msgid "User specific permissions"
+msgstr "‫مجوز کاربر خاص"
+
+#: includes/Localization.php:199
+msgid "Role manager"
+msgstr "‫مدیر وظایف"
+
+#: includes/Localization.php:197
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "‫میتوانید اطلاعات زیر را به صورت متن ساده با Ctrl+C / Ctrl+V کپی کنید:"
+
+#: includes/Localization.php:196
+msgid "Copy and paste info"
+msgstr "‫اطلاعات را کپی و جایگذاری کنید"
+
+#: includes/Localization.php:192
+msgid "Global colors are available in"
+msgstr "‫رنگ های سراسری موجود است"
+
+#: includes/Localization.php:191
+msgid "Click to add gradient point"
+msgstr "‫برای افزودن نقطه گرادینت کلیک کنید"
+
+#: includes/Localization.php:163
+msgid "No icons added"
+msgstr "‫هیچ آیکونی اضافه نشده است"
+
+#: includes/Localization.php:161
+msgid ".eot file"
+msgstr "‫فایل eot‬‫.‬‫"
+
+#: includes/Localization.php:160
+msgid ".svg file"
+msgstr "‫فایل svg‬‫.‬‫"
+
+#: includes/Localization.php:159
+msgid ".ttf file"
+msgstr "‫فایل ttf‬‫.‬‫"
+
+#: includes/Localization.php:157
+msgid ".woff file"
+msgstr "‫فایل woff‬‫.‬‫"
+
+#: includes/Localization.php:155
+msgid "Save"
+msgstr "ذخيره"
+
+#: includes/Localization.php:153
+msgid "No, keep the font"
+msgstr "‫نه‬‫،‬‫ فونت را نگه دارید"
+
+#: includes/Localization.php:152
+msgid "Yes, delete the font"
+msgstr "‫بله‬‫,‬‫ فونت حذف شود"
+
+#: includes/Localization.php:150
+msgid "Are you sure you want to delete this font?"
+msgstr "‫آیا از حذف این فونت مطمین هستید‬‫؟‬‫"
+
+#: includes/Localization.php:149
+msgid "Add Font"
+msgstr "‫فونت اضافه کنید"
+
+#: includes/Localization.php:148
+msgid "actions"
+msgstr "اقدامات"
+
+#: includes/Localization.php:147
+msgid "subsets"
+msgstr "‫زیر مجموعه ها"
+
+#: includes/Localization.php:146
+msgid "variants"
+msgstr "انواع"
+
+#: includes/Localization.php:145
+msgid "Font name"
+msgstr "نام فونت"
+
+#: includes/Localization.php:143
+msgid "Search for fonts..."
+msgstr "‫جستجوی فونت ها‬‫.‬‫‬‫.‬‫‬‫.‬‫"
+
+#: includes/Localization.php:124
+msgid "Edit"
+msgstr "‫ویرایش کنید"
+
+#: includes/Localization.php:122
+msgid "Template Name"
+msgstr "‫نام الگو"
+
+#: includes/Localization.php:121
+msgid "Template type"
+msgstr "‫نوع الگو"
+
+#: includes/Localization.php:120
+msgid "No template"
+msgstr "‫بدون الگو"
+
+#: includes/Localization.php:119
+msgid "Add new template"
+msgstr "‫الگوی جدیدی اضافه کنید"
+
+#: includes/Elements/Shortcode/Shortcode.php:37 includes/Localization.php:118
+msgid "Shortcode"
+msgstr "‫شورت کد"
+
+#: includes/Localization.php:117
+msgid "Author"
+msgstr "نویسنده"
+
+#: includes/Elements/Accordions/AccordionItem.php:69
+#: includes/Elements/Alert/Alert.php:102
+#: includes/Elements/IconBox/IconBox.php:145
+#: includes/Elements/ProgressBars/ProgressBars.php:100
+#: includes/Elements/Tabs/TabsItem.php:70 includes/Localization.php:116
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/Localization.php:115
+msgid "Smart Areas"
+msgstr "‫مناطق هوشمند"
+
+#: includes/Localization.php:114
+msgid "Saved Elements"
+msgstr "‫اِلمان های ذخیره شده"
+
+#: includes/Localization.php:113
+msgid "Trash"
+msgstr "‫زباله ها"
+
+#: includes/Localization.php:112
+msgid "Drafts"
+msgstr "‫پیش نویس ها"
+
+#: includes/Localization.php:111
+msgid "Published"
+msgstr "‫منتشر شده"
+
+#: includes/Localization.php:105
+msgid "Scroll down to copy paste the Info shown"
+msgstr "‫برای کپی کردن اطلاعات نشان داده شده به پایین پیمایش کنید"
+
+#: includes/Localization.php:102
+msgid "<strong>Important:</strong> It is strongly recommended that you <a href=\"https://zionbuilder.io/documentation/replace-url-s/\">backup your database</a> before using Replace URL."
+msgstr "‫<strong> مهم: </strong> توصیه می شود قبل از استفاده <a href=\"https: //zionbuilder‬‫.‬‫ io/documentation/replace‬‫-‬‫url‬‫-‬‫s/\"> از پایگاه داده خود </a> پشتیبان تهیه کنید‬‫.‬‫"
+
+#: includes/Localization.php:74
+msgid "Google Fonts"
+msgstr "‫فونت های گوگل"
+
+#: includes/Localization.php:73
+msgid "Font Options"
+msgstr "‫گزینه های فونت"
+
+#: includes/Localization.php:72
+msgid "Allowed Post types"
+msgstr "‫انواع پست مجاز"
+
+#: includes/Localization.php:71
+msgid "General Settings"
+msgstr "‫تنظیمات عمومی"
+
+#: includes/Localization.php:70
+msgid "System Info"
+msgstr "اطلاعات سیستم"
+
+#: includes/Localization.php:69
+msgid "Settings"
+msgstr "‫تنظیمات"
+
+#: includes/Localization.php:65
+msgid "Global"
+msgstr "سراسری"
+
+#: includes/Localization.php:62
+msgid "Upgrade to PRO"
+msgstr "‫ارتقا به نسخه حرفه ای"
+
+#: includes/Localization.php:60
+msgid "Documentation"
+msgstr "مستندات"
+
+#: includes/Localization.php:59
+msgid "pro"
+msgstr "حرفه ای"
+
+#: includes/Localization.php:58
+msgid "Upgrade to PRO now!"
+msgstr "‫به نسخه حرفه ای ارتقا دهید‬‫!‬‫"
+
+#: includes/Localization.php:56
+msgid "preview"
+msgstr "پیش نمایش"
+
+#: includes/Localization.php:55
+msgid "No templates found."
+msgstr "‫هیچ الگویی یافت نشد"
+
+#: includes/Localization.php:54
+msgid "There was a problem retrieving the templates"
+msgstr "‫در بازیابی الگوها مشکلی پیش آمد"
+
+#: includes/Localization.php:535
+msgid "Google web fonts"
+msgstr "‫فونتهای وب گوگل"
+
+#: includes/Localization.php:531
+msgid "Click Me or the Blue button to add a Font"
+msgstr "‫برای افزودن فونت روی من یا دکمه آبی کلیک کنید"
+
+#: includes/Localization.php:525
+msgid "You can set from here the allowed post types"
+msgstr "‫از اینجا می توانید انواع پست مجاز را تنظیم کنید"
+
+#: includes/Localization.php:522
+msgid "Draggable"
+msgstr "‫قابل جمع شدن"
+
+#: includes/Localization.php:519
+msgid "Save as preset"
+msgstr "‫ذخیره به عنوان از پیش تعیین شده"
+
+#: includes/Localization.php:515
+msgid "Location"
+msgstr "مکان"
+
+#: includes/Localization.php:512
+msgid "Inset"
+msgstr "‫الحاق"
+
+#: includes/Localization.php:509
+msgid "No results"
+msgstr "بدون تتیجه"
+
+#: includes/Localization.php:506
+msgid "Global color name"
+msgstr "‫نام رنگ سراسری"
+
+#: includes/Localization.php:503
+msgid "Color"
+msgstr "رنگ"
+
+#: includes/Localization.php:502
+msgid "No color chosen"
+msgstr "‫هیچ رنگی انتخاب نشده است"
+
+#: includes/Localization.php:499
+msgid "No HTMLElement was found matching"
+msgstr "‫با هیچ اِلمان HTML مطابقت پیدا نکرد"
+
+#: includes/Localization.php:496
+msgid "Enter Class Name"
+msgstr "‫نام کلاس را وارد کنید"
+
+#: includes/Localization.php:252
+msgid "Tree view"
+msgstr "‫نمای درختی"
+
+#: includes/Localization.php:250
+msgid "Search elements"
+msgstr "جستجوی ‫الِمان ها"
+
+#: includes/Localization.php:248 includes/Localization.php:265
+msgid "Options"
+msgstr "گزینه ها"
+
+#: includes/Localization.php:247
+msgid "Global CSS classes"
+msgstr "‫کلاسهای سراسری CSS"
+
+#: includes/Localization.php:246
+msgid "Tree view panel"
+msgstr "‫پنل نمای درختی"
+
+#: includes/Localization.php:233 includes/Localization.php:245
+msgid "Library"
+msgstr "کتابخانه"
+
+#: includes/Localization.php:244
+msgid "Add elements"
+msgstr "‫اِلمان ها را اضافه کنید"
+
+#: includes/Localization.php:240
+msgid "History"
+msgstr "سابقه"
+
+#: includes/Localization.php:238
+msgid "Download"
+msgstr "دانلود"
+
+#: includes/Localization.php:237
+msgid "Create"
+msgstr "‫ایجاد کردن"
+
+#: includes/Localization.php:236
+msgid "Write a suggestive name for your element"
+msgstr "‫برای الِمان خود یک نام پیشنهادی بنویسید"
+
+#: includes/Localization.php:235
+msgid "Choose a title"
+msgstr "‫عنوانی را انتخاب کنید"
+
+#: includes/Localization.php:234
+msgid "Save to library"
+msgstr "‫ذخیره در کتابخانه"
+
+#: includes/Localization.php:142
+msgid "No Google fonts added"
+msgstr "‫هیچ گوگل فونتی اضافه نشده است"
+
+#: includes/Localization.php:140
+msgid "Display Conditions"
+msgstr "‫شرایط نمایش"
+
+#: includes/Localization.php:137
+msgid "Enter a name for this template"
+msgstr "‫نامی برای این الگو وارد کنید"
+
+#: includes/Localization.php:136
+msgid "Type a name for the new template"
+msgstr "‫نام الگوی جدید را تایپ کنید"
+
+#: includes/Localization.php:135
+msgid "Select type"
+msgstr "‫نوع را انتخاب کنید"
+
+#: includes/Localization.php:134
+msgid "Select a template"
+msgstr "‫الگویی را انتخاب کنید"
+
+#: includes/Localization.php:133
+msgid "success"
+msgstr "موفقیت"
+
+#: includes/Localization.php:132
+msgid "The template was successfully added to library"
+msgstr "‫الگو با موفقیت در کتابخانه اضافه شد"
+
+#: includes/Localization.php:131
+msgid "Are you sure you want to delete this template?"
+msgstr "‫آیا از حذف این الگو مطمین هستید‬‫؟‬‫"
+
+#: includes/Localization.php:130
+msgid "No, keep template"
+msgstr "‫نه‬‫،‬‫ الگو را نگه دارید"
+
+#: includes/Localization.php:129
+msgid "Yes, delete template"
+msgstr "‫بله‬‫,‬‫ الگو حذف شود"
+
+#: includes/Localization.php:128 includes/Localization.php:413
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: includes/Localization.php:127
+msgid "Export"
+msgstr "برون بری"
+
+#: includes/Localization.php:126 includes/Localization.php:516
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/Localization.php:125
+msgid "Conditions"
+msgstr "شرایط"
+
+#: includes/Localization.php:50
+msgid "With PRO you will have additional control over your pages, create reusable sections and elements, have dynamic data, additional elements, additional options to existing elements and many more features."
+msgstr "با نسخه حرفه ای می توانید کنترل بیشتری بر صفحات خود داشته باشید‬‫,‬‫ بخش ها و عناصر قابل استفاده مجدد ایجاد کنید‬‫,‬‫ داده های پویا‬‫,‬‫ الِمان های اضافی‬‫,‬‫ گزینه های اضافی برای الِمان های موجود و بسیاری از ویژگی های دیگر داشته باشید‬‫.‬‫"
+
+#: includes/Localization.php:43
+msgid "With PRO you can use the Adobe fonts library to add your fonts along side Google fonts and custom fonts."
+msgstr "‫با نسخه حرفه ای شما می توانید از کتابخانه فونتهای ادوبی برای افزودن فونتهای خود در کنار فونتهای گوگل و فونتهای سفارشی استفاده کنید‬‫.‬‫"
+
+#: includes/Localization.php:42
+msgid "With PRO you can upload your own sets of fonts and assign it to your page elements."
+msgstr "‫با نسخه حرفه ای می توانید مجموعه ای از فونتهای خود را بارگذاری کرده و به الِمان های صفحه خود اختصاص دهید‬‫.‬‫"
+
+#: includes/Localization.php:39
+msgid "Meet Global Gradients"
+msgstr "‫با گرداینت های سراسری آشنا شوید"
+
+#: includes/Localization.php:38
+msgid "Meet Global Colors"
+msgstr "‫با رنگ های سراسری آشنا شوید"
+
+#: includes/Localization.php:37
+msgid "Want to give access only to content, specific post type or builder feature?"
+msgstr "‫آیا می خواهید فقط به محتوا‬‫،‬‫ نوع پست خاص یا ویژگی سازنده دسترسی داشته باشید‬‫؟‬‫"
+
+#: includes/Localization.php:35
+msgid "Want to give control to specific users?"
+msgstr "‫آیا می خواهید کاربران خاص را کنترل کنید‬‫؟‬‫"
+
+#: includes/Localization.php:36
+msgid "specific users control"
+msgstr "کنترل کاربران خاص"
+
+#: includes/Localization.php:331
+msgid "On input of type number with link option available"
+msgstr "‫در ورودی نوع شماره با گزینه پیوند موجود است"
+
+#: includes/Localization.php:330
+msgid "On input of type number"
+msgstr "در ورودی تایپ شماره"
+
+#: includes/Localization.php:327
+msgid "No class found"
+msgstr "‫هیچ کلاسی پیدا نشد"
+
+#: includes/Localization.php:323
+msgid "No elements found"
+msgstr "‫هیچ اِلمانی یافت نشد"
+
+#: includes/Localization.php:322
+msgid "Invalid class name, classes must not start with numbers and cannot contain spaces"
+msgstr "‫نام کلاس نامعتبر است‬‫،‬‫ کلاس ها نباید با اعداد شروع شوند و نمی توانند شامل فاصله باشند"
+
+#: includes/Localization.php:321
+msgid "This class name already exists"
+msgstr "‫این نام کلاس وجود دارد"
+
+#: includes/Localization.php:320
+msgid "Add Class"
+msgstr "‫کلاس اضافه کنید"
+
+#: includes/Localization.php:319
+msgid "No class found. Press \"Add class\" to create a new class and assign it to the element."
+msgstr "‫هیچ کلاسی پیدا نشد برای ایجاد کلاس جدید‬‫،‬‫ \"افزودن کلاس\" را فشار دهید و آن را به اِلمان اختصاص دهید‬‫.‬‫"
+
+#: includes/Localization.php:317
+msgid "Select category"
+msgstr "‫انتخاب دسته"
+
+#: includes/Localization.php:316
+msgid "Enter new category"
+msgstr "‫دسته جدید وارد کنید"
+
+#: includes/Localization.php:315
+msgid "My fancy title"
+msgstr "‫عنوان فانتزی من"
+
+#: includes/Localization.php:314
+msgid "to upload"
+msgstr "‫برای بارگذاری"
+
+#: includes/Localization.php:313
+msgid "Drop your files"
+msgstr "‫فایل های خود را رها کنید"
+
+#: includes/Localization.php:312
+msgid "for files"
+msgstr "‫برای فایل ها"
+
+#: includes/Localization.php:95
+msgid "New Url"
+msgstr "‫آدرس جدید"
+
+#: includes/Localization.php:94
+msgid "old Url"
+msgstr "‫آدرس قدیمی"
+
+#: includes/Localization.php:93
+msgid "Sync Library"
+msgstr "‫همگام سازی کتابخانه"
+
+#: includes/Localization.php:86
+msgid "Regenerate Files"
+msgstr "‫بازسازی فایل ها"
+
+#: includes/Localization.php:85
+msgid "Tools"
+msgstr "‫ابزارها"
+
+#: includes/Localization.php:82
+msgid "General"
+msgstr "عمومی"
+
+#: includes/Localization.php:81
+msgid "Replace URL"
+msgstr "‫آدرس را جایگزین کنید"
+
+#: includes/Localization.php:80
+msgid "Presets"
+msgstr "از پیش تنظیم شده"
+
+#: includes/Localization.php:79
+msgid "Gradients"
+msgstr "‫گرادینت ها"
+
+#: includes/Localization.php:78
+msgid "Color Presets"
+msgstr "‫رنگ از پیش تنظیم شده"
+
+#: includes/Localization.php:77
+msgid "Custom Icons"
+msgstr "‫آیکون های سفارشی"
+
+#: includes/Localization.php:76
+msgid "Adobe Fonts"
+msgstr "‫فونت های ادوبی"
+
+#: includes/Localization.php:75
+msgid "Custom Fonts"
+msgstr "‫فونت های سفارشی"
+
+#: includes/Localization.php:190
+msgid "Gradient bar"
+msgstr "‫نوار گرادینت"
+
+#: includes/Localization.php:189
+msgid "Gradient angle"
+msgstr "‫زاویه گرادینت"
+
+#: includes/Localization.php:188
+msgid "Gradient type"
+msgstr "‫نوع گرادینت"
+
+#: includes/Localization.php:187
+msgid "Add Gradient"
+msgstr "‫گرادینت اضافه کنید"
+
+#: includes/Localization.php:184
+msgid "Add color"
+msgstr "‫رنگ اضافه کنید"
+
+#: includes/Localization.php:181
+msgid "Loading"
+msgstr "‫در حال بارگیری"
+
+#: includes/Localization.php:180
+msgid "submit"
+msgstr "ارسال"
+
+#: includes/Localization.php:178
+msgid "After adding a valid token, your web projects will appear bellow."
+msgstr "‫پس از افزودن یک رمز معتبر‬‫,‬‫ پروژه های وب شما در زیر ظاهر می شود‬‫.‬‫"
+
+#: includes/Localization.php:177
+msgid "Adobe fonts website"
+msgstr "‫وبسایت فونت های ادوبی"
+
+#: includes/Localization.php:169
+msgid "Select an icon"
+msgstr "‫یک آیکون را انتخاب کنید"
+
+#: includes/Localization.php:176
+msgid "Please provide the token you got from the"
+msgstr "‫لطفا توکن دریافت شده را ارائه دهید"
+
+#: includes/Localization.php:168
+msgid "No icons were found in package"
+msgstr "‫هیچ آیکونی در بسته یافت نشد"
+
+#: includes/Localization.php:167
+msgid "icons"
+msgstr "آیکون ‌ها"
+
+#: includes/Localization.php:166
+msgid "Search through"
+msgstr "‫جستجو از طریق"
+
+#: includes/Localization.php:165
+msgid "Icon pack"
+msgstr "‫بسته آیکون"
+
+#: includes/Elements/Column/Column.php:366
+#: includes/Elements/Container/Container.php:326
+#: includes/Elements/Container/Container.php:390
+#: includes/Elements/Section/Section.php:349
+#: includes/Elements/Section/Section.php:392
+msgid "space-around"
+msgstr "فضای اطراف"
+
+#: includes/Elements/Column/Column.php:361
+#: includes/Elements/Container/Container.php:321
+#: includes/Elements/Container/Container.php:385
+#: includes/Elements/Section/Section.php:344
+#: includes/Elements/Section/Section.php:387
+msgid "space-between"
+msgstr "فاصله بین"
+
+#: includes/Elements/Column/Column.php:406
+#: includes/Elements/Container/Container.php:283
+#: includes/Elements/Container/Container.php:474
+#: includes/Elements/Section/Section.php:299
+#: includes/Elements/Section/Section.php:432
+msgid "stretch"
+msgstr "کشیده"
+
+#: includes/Elements/Column/Column.php:303
+#: includes/Elements/Column/Column.php:391
+#: includes/Elements/Section/Section.php:329
+#: includes/Elements/Section/Section.php:417
+msgid "Top"
+msgstr "بالا"
+
+#: includes/Localization.php:456
+msgid "Top masks"
+msgstr "‫ماسک های بالا"
+
+#: includes/Elements/Column/Column.php:351
+#: includes/Elements/Column/Column.php:396
+#: includes/Elements/Container/Container.php:273
+#: includes/Elements/Container/Container.php:311
+#: includes/Elements/Container/Container.php:375
+#: includes/Elements/Container/Container.php:464
+#: includes/Elements/Counter/Counter.php:152
+#: includes/Elements/Section/Section.php:289
+#: includes/Elements/Section/Section.php:334
+#: includes/Elements/Section/Section.php:377
+#: includes/Elements/Section/Section.php:422
+#: includes/Elements/Separator/Separator.php:120
+msgid "center"
+msgstr "میانه"
+
+#: includes/Elements/Column/Column.php:411
+#: includes/Elements/Container/Container.php:288
+#: includes/Elements/Container/Container.php:479
+#: includes/Elements/Section/Section.php:304
+#: includes/Elements/Section/Section.php:437
+msgid "baseline"
+msgstr "پایه"
+
+#: includes/Localization.php:473
+msgid "Same Window"
+msgstr "همان پنجره"
+
+#. translators: %s is the whitelabel plugin name
+#: includes/Localization.php:99
+msgctxt "zionbuilder"
+msgid "Styles set in %s are saved in CSS files in the uploads folder. Recreate those files, according to the most recent settings."
+msgstr "استایل های تنظیم %s  در فایل های CSS در پوشه بارگذاری دخیره می شوند‬‫.‬‫ با توجه به جدیدترین تنظیمات‬‫,‬‫ آن فایل ها را دوباره ایجاد کنید‬‫.‬‫"
+
+#. translators: %s is the whitelabel name;
+#: includes/Localization.php:47
+msgctxt "zionbuilder"
+msgid "%s PRO lets you upload your own icons in addition to the Font Awesome icons that everyone is using."
+msgstr "%s نسخه حرفه ای به شما امکان می دهد علاوه بر آیکون های Font Awesome آیکون های شخصی خود را نیز بارگذاری کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:503
+msgid "Set the desired appear animation duration (in miliseconds)."
+msgstr "‫مدت زمان انیمیشن مورد نظر را تنظیم کنید ‬‫(‬‫بر حسب میلی ثانیه‬‫)‬‫‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:180
+msgid "bounce In Up"
+msgstr "bounce In Up"
+
+#: includes/Options/Schemas/Advanced.php:235
+msgid "fade In Left Big"
+msgstr "fade In Left Big"
+
+#: includes/Options/Schemas/Advanced.php:355
+msgid "rotate Out"
+msgstr "rotate Out"
+
+#: includes/Options/Schemas/Advanced.php:445
+msgid "zoom Out Up"
+msgstr "zoom Out Up"
+
+#: includes/Options/Schemas/Advanced.php:220
+msgid "fade In Down Big"
+msgstr "fade In Down Big"
+
+#: includes/Options/Schemas/Advanced.php:175
+msgid "bounce In Right"
+msgstr "bounce In Right"
+
+#: includes/Options/Schemas/Advanced.php:460
+msgid "slide In Right"
+msgstr "slide In Right"
+
+#: includes/Options/Schemas/Advanced.php:465
+msgid "slide In Up"
+msgstr "slide In Up"
+
+#: includes/Options/Schemas/Advanced.php:450
+msgid "slide In Down"
+msgstr "slide In Down"
+
+#: includes/Options/Schemas/Advanced.php:375
+msgid "rotate Out Up Right"
+msgstr "rotate Out Up Right"
+
+#: includes/Options/Schemas/Advanced.php:370
+msgid "rotate Out Up Left"
+msgstr "rotate Out Up Left"
+
+#: includes/Options/Schemas/Advanced.php:160
+msgid "bounce In"
+msgstr "bounce In"
+
+#: includes/Options/Schemas/Advanced.php:155
+msgid "heart Beat"
+msgstr "heart Beat"
+
+#: includes/Localization.php:108 includes/Options/Schemas/Advanced.php:64
+msgid "All"
+msgstr "‫همه"
+
+#: includes/Options/Schemas/Advanced.php:59
+msgid "Set the visibility for this element."
+msgstr "‫قابلیت مشاهده برای این اِلمان را تنظیم کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:49
+msgid "Element unique id"
+msgstr "‫شناسه منحصر به فرد اِلمان"
+
+#: includes/Options/Schemas/Advanced.php:48
+msgid "Set the desired element id. Please note that the id must be unique accross your page"
+msgstr "‫شناسه اِلمان مورد نظر را تنظیم کنید‬‫.‬‫ لطفا توجه داشته باشید که شناسه باید در سراسر صفحه شما منحصر به فرد باشد"
+
+#: includes/Options/Schemas/Advanced.php:38
+msgid "Element name"
+msgstr "‫نام اِلمان"
+
+#: includes/Options/Schemas/Advanced.php:37
+msgid "Set the desired name for this element. Will only appear in edit mode."
+msgstr "‫نام مورد نظر را برای این اِلمان تنظیم کنید‬‫.‬‫ فقط در حالت ویرایش ظاهر می شود‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:29
+msgid "General options"
+msgstr "‫گزینه های کلی"
+
+#: includes/Options/Schemas/Typography.php:213
+msgid "lowercase"
+msgstr "‫حروف کوچک"
+
+#: includes/Options/Schemas/Typography.php:208
+msgid "uppercase"
+msgstr "حروف بزرگ"
+
+#: includes/Options/Schemas/Typography.php:218
+msgid "capitalize"
+msgstr "با حروف درشت نوشتن"
+
+#: includes/Options/Schemas/Typography.php:167
+msgid "Letter spacings sets the width between letters."
+msgstr "‫فاصله حروف‬‫،‬‫ عرض بین حروف را تنظیم می کند‬‫.‬‫"
+
+#: includes/Options/Schemas/Typography.php:166
+msgid "Letter Spacing"
+msgstr "‫فاصله بین حروف"
+
+#: includes/Options/Schemas/Typography.php:155
+msgid "Line height sets the distance between lines of text."
+msgstr "‫ارتفاع خط فاصله بین خطوط متن را تنظیم می کند‬‫.‬‫"
+
+#: includes/Options/Schemas/Typography.php:154
+msgid "Line height"
+msgstr "‫ارتفاع خط"
+
+#: includes/Options/Schemas/PageOptions.php:139
+msgid "Custom JavaScript"
+msgstr "‫جاوا اسکریپت سفارشی"
+
+#: includes/Options/Schemas/PageOptions.php:130
+msgid "With custom CSS you can add CSS to your page."
+msgstr "‫با CSS سفارشی می توانید CSS را به صفحه خود اضافه کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:581
+#: includes/Options/Schemas/PageOptions.php:129
+msgid "Meet Custom CSS"
+msgstr "‫با CSS سفارشی آشنا شوید"
+
+#: includes/Options/Schemas/Advanced.php:572
+#: includes/Options/Schemas/PageOptions.php:120
+msgid "Custom CSS"
+msgstr "‫CSS سفارشی"
+
+#: includes/Options/Schemas/PageOptions.php:111
+msgid "Page featured image"
+msgstr "‫صفحه تصویر ویژه"
+
+#: includes/Options/Schemas/PageOptions.php:110
+msgid "Choose the desired page featured image."
+msgstr "‫تصویر شاخص مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/PageOptions.php:97
+msgid "Page layout"
+msgstr "‫چیدمان صفحه"
+
+#: includes/Options/Schemas/PageOptions.php:96
+msgid "Select the desired page layout."
+msgstr "‫طرح بندی صفحه مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/PageOptions.php:82
+msgid "Private"
+msgstr "‫خصوصی"
+
+#: includes/Options/Schemas/PageOptions.php:78
+msgid "Draft"
+msgstr "‫پیش نویس"
+
+#: includes/Options/Schemas/PageOptions.php:74
+msgid "Publish"
+msgstr "انتشار"
+
+#: includes/Options/Schemas/PageOptions.php:69
+msgid "Page status"
+msgstr "‫وضعیت صفحه"
+
+#: includes/Options/Schemas/PageOptions.php:68
+msgid "Select the page status."
+msgstr "‫وضعیت صفحه را انتخاب کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/PageOptions.php:59
+msgid "Enter page title"
+msgstr "‫عنوان صفحه را وارد کنید"
+
+#: includes/Options/Schemas/Advanced.php:582
+msgid "With custom CSS you can fine tune the styling of your elements."
+msgstr "‫با CSS سفارشی می توانید یک ظاهر طراحی شده را از الِمان های خود تنظیم کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:539
+msgid "Appear delay"
+msgstr "‫تاخیر ظاهر شدن"
+
+#: includes/Options/Schemas/Advanced.php:538
+msgid "Set the desired appear animation delay (in miliseconds)."
+msgstr "‫تاخیر نمایان شدن انیمیشن دلخواه ‬‫(‬‫بر حسب میلی ثانیه‬‫)‬‫ را تنظیم کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Advanced.php:504
+msgid "Appear duration"
+msgstr "‫مدت زمان ظاهر شدن"
+
+#: includes/Options/Schemas/Typography.php:143
+msgid "The font size option sets the size of the font in various units"
+msgstr "‫گزینه font size اندازه فونت را در واحدهای مختلف تعیین می کند"
+
+#: includes/Options/Schemas/Typography.php:142
+msgid "Font size"
+msgstr "اندازه فونت"
+
+#: includes/Options/Schemas/Typography.php:133
+msgid "Font Color"
+msgstr "رنگ فونت"
+
+#: includes/Options/Schemas/Typography.php:124
+msgid "Unset"
+msgstr "Unset"
+
+#: includes/Options/Schemas/Typography.php:120
+msgid "Initial"
+msgstr "Initial"
+
+#: includes/Options/Schemas/Typography.php:116
+msgid "Inherit"
+msgstr "Inherit"
+
+#: includes/Options/Schemas/Typography.php:112
+msgid "Lighter"
+msgstr "Lighter"
+
+#: includes/Options/Schemas/Typography.php:108
+msgid "Bolder"
+msgstr "‫ضخیم تر"
+
+#: includes/Options/Schemas/Typography.php:65
+msgid "Font weight allows you to set the text thickness."
+msgstr "‫وزن فونت به شما امکان می دهد ضخامت متن را تنظیم کنید‬‫.‬‫"
+
+#: includes/Localization.php:156 includes/Options/Schemas/Typography.php:64
+msgid "Font Weight"
+msgstr "‫وزن فونت"
+
+#: includes/Options/Schemas/Typography.php:53
+msgid "Font Family"
+msgstr "‫خانواده فونت"
+
+#: includes/Options/Schemas/Typography.php:31
+msgid "Select the desired text align."
+msgstr "‫تراز متن دلخواه را انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Counter/Counter.php:143
+#: includes/Elements/Heading/Heading.php:146
+#: includes/Elements/Icon/Icon.php:101
+#: includes/Elements/IconBox/IconBox.php:122
+#: includes/Elements/Image/Image.php:106
+#: includes/Elements/ImageBox/ImageBox.php:133
+#: includes/Options/Schemas/Typography.php:30
+msgid "Align"
+msgstr "‫تراز کردن"
+
+#: includes/Options/Schemas/PageOptions.php:149
+msgid "With custom JavaScript you can add JavaScript code to this page."
+msgstr "‫با JavaScript سفارشی می توانید کد JavaScript را به این صفحه اضافه کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/PageOptions.php:148
+msgid "Meet Custom JavaScript"
+msgstr "‫با جاوااسکریپت سفارشی آشنا شوید"
+
+#: includes/Options/Schemas/Video.php:105
+msgid "Show controls"
+msgstr "‫نمایش کنترل ها"
+
+#: includes/Options/Schemas/Video.php:72
+msgid "Enter the Youtube video url."
+msgstr "‫آدرس اینترنتی ویدیوی یوتیوب را وارد کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Video.php:71
+msgid "Youtube video url"
+msgstr "‫آدرس ویدئو یوتیوب"
+
+#: includes/Options/Schemas/Video.php:61
+msgid "Enter Vimeo url."
+msgstr "‫آدرس اینترنتی ویمئو را وارد کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Video.php:60
+msgid "Vimeo video url"
+msgstr "‫آدرس اینترنتی ویدئو ویمئو"
+
+#: includes/Options/Schemas/Video.php:49
+msgid "Select the video to use."
+msgstr "ویدئو را برای استفاده انتخاب کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/Video.php:48
+msgid "Local source"
+msgstr "‫منبع محلی"
+
+#: includes/Options/Schemas/Video.php:41
+msgid "Youtube"
+msgstr "‫یوتیوب"
+
+#: includes/Options/Schemas/Video.php:37
+msgid "Vimeo"
+msgstr "‫ویمئو"
+
+#: includes/Localization.php:64 includes/Options/Schemas/Video.php:33
+msgid "Local"
+msgstr "محلی"
+
+#: includes/Options/Schemas/Video.php:28
+msgid "Video source"
+msgstr "‫منبع ویدئو"
+
+#: includes/Options/Schemas/Shadow.php:102
+msgid "Inset?"
+msgstr "‫الحاق شود‬‫؟‬‫"
+
+#: includes/Options/Schemas/Shadow.php:90
+msgid "Shadow color"
+msgstr "‫رنگ سایه"
+
+#: includes/Options/Schemas/Shadow.php:78
+msgid "Spread"
+msgstr "‫گسترش"
+
+#: includes/Options/Schemas/Shadow.php:63
+msgid "Blur"
+msgstr "‫مات یا محو"
+
+#: includes/Options/Schemas/StyleOptions.php:368
+msgid "Z-index options"
+msgstr "‫گزینه های شاخص Z"
+
+#: includes/Elements/Container/Container.php:158
+#: includes/Options/Schemas/StyleOptions.php:357
+msgid "Display"
+msgstr "‫نمایش"
+
+#: includes/Options/Schemas/StyleOptions.php:344
+msgid "Size & Spacing"
+msgstr "‫اندازه و فاصله"
+
+#: includes/Options/Schemas/StyleOptions.php:330
+msgid "Borders & Shadows"
+msgstr "‫حاشیه ها و سایه ها"
+
+#: includes/Options/Schemas/StyleOptions.php:315
+msgid "Typography"
+msgstr "‫تایپوگرافی"
+
+#: includes/Options/Schemas/StyleOptions.php:301
+msgid "Background"
+msgstr "‫پس زمینه"
+
+#: includes/Elements/Container/Container.php:667
+#: includes/Options/Schemas/StyleOptions.php:266
+msgid "Max Height"
+msgstr "‫حداکثر ارتفاع"
+
+#: includes/Elements/Container/Container.php:655
+#: includes/Options/Schemas/StyleOptions.php:255
+msgid "Min Height"
+msgstr "‫حداقل ارتفاع"
+
+#: includes/Elements/Container/Container.php:643 includes/Localization.php:666
+#: includes/Options/Schemas/BackgroundImage.php:183
+#: includes/Options/Schemas/StyleOptions.php:244
+msgid "Height"
+msgstr "ارتفاع"
+
+#: includes/Elements/Container/Container.php:631
+#: includes/Options/Schemas/StyleOptions.php:233
+msgid "Max Width"
+msgstr "‫حداکثر عرض"
+
+#: includes/Elements/Container/Container.php:619
+#: includes/Options/Schemas/StyleOptions.php:222
+msgid "Min Width"
+msgstr "‫حداقل عرض"
+
+#: includes/Elements/Container/Container.php:607
+#: includes/Elements/Separator/Separator.php:154
+#: includes/Options/Schemas/BackgroundImage.php:173
+#: includes/Options/Schemas/StyleOptions.php:211
+msgid "Width"
+msgstr "عرض"
+
+#: includes/Elements/Container/Container.php:598
+#: includes/Options/Schemas/StyleOptions.php:203
+msgid "Sizing"
+msgstr "‫سایز بندی"
+
+#: includes/Elements/Container/Container.php:565
+#: includes/Elements/Separator/Separator.php:237
+msgid "Choose the desired margin for this element."
+msgstr "‫حاشیه مورد نظر را برای این اِلمان انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Container/Container.php:564
+#: includes/Elements/Separator/Separator.php:236 includes/Localization.php:742
+msgid "Margin"
+msgstr "‫مارجین"
+
+#: includes/Options/Schemas/StyleOptions.php:58
+msgid "Font"
+msgstr "فونت"
+
+#: includes/Options/Stack.php:53
+msgid "Second argument of add_option must be an array or an instance of ZionBuilder\\Options\\Option"
+msgstr "آرگومان دوم add_option باید یک آرایه یا نمونه از ZionBuilder\\Options\\Option باشد"
+
+#: includes/Integrations.php:105
+msgid "The integration must implement IBaseIntegration"
+msgstr "‫ادغام باید ادغام پایه را پیاده سازی کند"
+
+#: includes/Api/RestControllers/SavePage.php:110
+msgid "Page successfully saved!"
+msgstr "‫صفحه با موفقیت ذخیره شد‬‫!‬‫"
+
+#: includes/Api/RestControllers/SavePage.php:107
+msgid "There was a problem saving the page."
+msgstr "‫مشکلی برای ذخیره صفحه وجود داشت‬‫.‬‫"
+
+#: includes/Api/RestControllers/SavePage.php:66
+#: includes/Api/RestControllers/UserController.php:65
+msgid "You do not have permissions to save this resource."
+msgstr "‫اجازه ذخیره این منبع را ندارید‬‫.‬‫"
+
+#: includes/Api/RestControllers/GoogleFonts.php:118
+msgid "Font family"
+msgstr "‫خانواده فونت"
+
+#: includes/Api/RestControllers/GoogleFonts.php:113
+msgid "Google font type"
+msgstr "‫نوع فونت گوگل"
+
+#: includes/Api/RestControllers/GoogleFonts.php:92
+msgid "No Google fonts found."
+msgstr "‫هیچ گوگل فونتی یافت نشد‬‫.‬‫"
+
+#: includes/Api/RestControllers/GoogleFonts.php:88
+msgid "Cannot extract Google fonts."
+msgstr "‫فونت های گوگل قابل استخراج نیستند‬‫.‬‫"
+
+#: includes/Api/RestControllers/SystemInfo.php:303
+msgid "All right"
+msgstr "‫خیلی خوب"
+
+#: includes/Api/RestControllers/SystemInfo.php:300
+msgid "There are some writing permissions issues with the following directories/files: "
+msgstr "‫برخی از مشکلات مجوز نوشتن با دایرکتوری ها فایل های زیر وجود دارد"
+
+#: includes/Api/RestControllers/SystemInfo.php:298
+msgid "Not all right"
+msgstr "خوب نیست"
+
+#: includes/Api/RestControllers/SystemInfo.php:288
+msgid ".htaccess file"
+msgstr "‫فایل htaccess‬‫.‬‫"
+
+#: includes/Api/RestControllers/SystemInfo.php:276
+msgid "WordPress root uploads directory"
+msgstr "‫فهرست بارگذاری های ریشه وردپرس"
+
+#: includes/Api/RestControllers/SystemInfo.php:271
+msgid "write permissions"
+msgstr "‫اجازه نوشتن"
+
+#: includes/Api/RestControllers/SystemInfo.php:269
+msgid "WordPress root directory"
+msgstr "‫فهرست ریشه وردپرس"
+
+#: includes/Api/RestControllers/SystemInfo.php:250
+msgid "The zip extension is not installed!"
+msgstr "‫پسوند فایل فشرده نصب نشده است‬‫!‬‫"
+
+#: includes/Api/RestControllers/SystemInfo.php:243
+msgid "zip installed"
+msgstr "‫فایل فشرده نصب شد"
+
+#: includes/Api/RestControllers/SystemInfo.php:226
+msgid "The GD extension is not installed!"
+msgstr "‫افزونه GD نصب نشده است‬‫!‬‫"
+
+#: includes/Api/RestControllers/SystemInfo.php:218
+msgid "gd installed"
+msgstr "‫gd نصب شده"
+
+#: includes/Api/RestControllers/SystemInfo.php:200
+msgid "mysql version"
+msgstr "‫نسخه mysql"
+
+#: includes/Api/RestControllers/SystemInfo.php:185
+msgid "We recommend using php version 7.0.0 or higher. By using PHP version 7 or above, your site will increase in speed."
+msgstr "‫نوصیه می کنیم از نسخه 7.0.0 یا بالاتر php استفاده کنید‬‫.‬‫ با استفاده از PHP نسخه 7 یا بالاتر‬‫,‬‫ سرعت سایت شما افزایش می یابد‬‫.‬‫"
+
+#: includes/Api/RestControllers/SystemInfo.php:181
+msgid "php version"
+msgstr "‫نسخه php"
+
+#: includes/Api/RestControllers/SystemInfo.php:108
+msgid "site url"
+msgstr "‫آدرس سایت"
+
+#: includes/Api/RestControllers/SystemInfo.php:103
+msgid "WordPress environment"
+msgstr "‫محیط وردپرس"
+
+#: includes/Api/RestControllers/SystemInfo.php:93
+msgid "php max post size"
+msgstr "‫حداکثر اندازه پرونده بارگذاری در php"
+
+#: includes/Api/RestControllers/SystemInfo.php:89
+msgid "php max input vars"
+msgstr "‫حداکثر تعداد متغیرهای ورودی مجاز برای اسکریپت های PHP"
+
+#: includes/Api/RestControllers/SystemInfo.php:83
+msgid "software"
+msgstr "نرم افزار"
+
+#: includes/Api/RestControllers/SystemInfo.php:79
+msgid "operating system"
+msgstr "سیستم عامل"
+
+#: includes/Api/RestControllers/SystemInfo.php:75
+msgid "Server environment"
+msgstr "محیط سرور"
+
+#: includes/Api/RestControllers/DownloadArchive.php:94
+msgid "Invalid nonce or filename"
+msgstr "‫نام فایل یا خود فایل نامعتبر است"
+
+#: includes/Options/Schemas/PageOptions.php:58
+msgid "Page title"
+msgstr "عنوان صفحه"
+
+#: includes/Options/Schemas/PageOptions.php:57
+msgid "Enter the desired page title"
+msgstr "‫عنوان صفحه مورد نظر را وارد کنید"
+
+#: includes/Localization.php:715 includes/Options/Schemas/PageOptions.php:47
+msgid "Page options"
+msgstr "‫گزینه های صفحه"
+
+#: includes/Elements/Icon/Icon.php:118
+#: includes/Options/Schemas/PageOptions.php:31
+msgid "Default"
+msgstr "پیش فرض"
+
+#: includes/Localization.php:437
+#: includes/Options/Schemas/BackgroundImage.php:221
+msgid "Background blend mode"
+msgstr "‫حالت ترکیب پس زمینه"
+
+#: includes/Localization.php:434
+#: includes/Options/Schemas/BackgroundImage.php:193
+msgid "Background Clip"
+msgstr "‫برش پس زمینه"
+
+#: includes/Options/Schemas/BackgroundImage.php:159
+msgid "Background Size Units"
+msgstr "‫واحد اندازه پس زمینه"
+
+#: includes/Options/Schemas/BackgroundImage.php:124
+msgid "Background size"
+msgstr "‫اندازه پس زمینه"
+
+#: includes/Options/Schemas/BackgroundImage.php:114
+msgid "Vertical position"
+msgstr "‫موقعیت عمودی"
+
+#: includes/Options/Schemas/BackgroundImage.php:104
+msgid "Horizontal position"
+msgstr "‫موقعیت افقی"
+
+#: includes/Options/Schemas/BackgroundImage.php:72
+msgid "Background attachment"
+msgstr "‫پیوست پس زمینه را انتخاب کنید"
+
+#: includes/Options/Schemas/BackgroundImage.php:28
+msgid "Background repeat"
+msgstr "‫تکرار پس زمینه را انتخاب کنید"
+
+#: includes/Options/Schemas/Video.php:150
+msgid "Start muted?"
+msgstr "‫بی صدا شروع شود‬‫؟‬‫"
+
+#: includes/Options/Schemas/Video.php:143
+msgid "Autoplay video?"
+msgstr "‫ویدیو به صورت خودکار پخش شود‬‫؟‬‫"
+
+#: includes/Options/Schemas/Video.php:117
+msgid "Controls position"
+msgstr "‫موقعیت را کنترل می کند"
+
+#: includes/Elements/Container/Container.php:532
+#: includes/Elements/Separator/Separator.php:202
+msgid "Choose the desired padding for this element."
+msgstr "‫پدینگ مورد نظر را برای این اِلمان انتخاب کنید‬‫.‬‫"
+
+#: includes/Elements/Container/Container.php:531
+#: includes/Elements/Separator/Separator.php:201 includes/Localization.php:747
+msgid "Padding"
+msgstr "پدینگ"
+
+#: includes/Elements/Container/Container.php:521 includes/Localization.php:667
+#: includes/Options/Schemas/StyleOptions.php:186
+msgid "Spacing"
+msgstr "‫فاصله بین حروف"
+
+#: includes/Elements/CustomCode/CustomCode.php:113 includes/Localization.php:51
+#: includes/Localization.php:468 includes/Options/Schemas/Advanced.php:583
+#: includes/Options/Schemas/PageOptions.php:131
+#: includes/Options/Schemas/PageOptions.php:150
+#: includes/Options/Schemas/StyleOptions.php:176
+#: includes/Options/Schemas/StyleOptions.php:576
+#: includes/Options/Schemas/StyleOptions.php:602
+#: includes/Options/Schemas/StyleOptions.php:628
+#: includes/Options/Schemas/StyleOptions.php:654 includes/Permissions.php:76
+msgid "Click here to learn more about PRO."
+msgstr "‫برای کسب اطلاعات بیشتر در مورد نسخه حرفه ای اینجا کلیک کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:164
+#: includes/Options/Schemas/StyleOptions.php:590
+#: includes/Options/Schemas/StyleOptions.php:616
+#: includes/Options/Schemas/StyleOptions.php:642
+msgid "PRO"
+msgstr "حرفه ای"
+
+#: includes/Options/Schemas/StyleOptions.php:160
+#: includes/Options/Schemas/StyleOptions.php:302
+#: includes/Options/Schemas/StyleOptions.php:316
+#: includes/Options/Schemas/StyleOptions.php:329
+#: includes/Options/Schemas/StyleOptions.php:343
+#: includes/Options/Schemas/StyleOptions.php:358
+#: includes/Options/Schemas/StyleOptions.php:586
+#: includes/Options/Schemas/StyleOptions.php:612
+#: includes/Options/Schemas/StyleOptions.php:638
+msgid "Styling"
+msgstr "‫طراحی"
+
+#: includes/Options/Schemas/StyleOptions.php:159
+msgid "Box shadow options"
+msgstr "‫گزینه های جعبه سایه"
+
+#: includes/Options/Schemas/StyleOptions.php:127
+msgid "Choose the desired border radius style."
+msgstr "‫استایل شعاع حاشیه مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:118
+msgid "Border radius"
+msgstr "‫شعاع حاشیه"
+
+#: includes/Options/Schemas/StyleOptions.php:109
+msgid "Choose the desired border style."
+msgstr "‫استایل حاشیه مورد نظر را انتخاب کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:101
+#: includes/Options/Schemas/StyleOptions.php:108
+#: includes/Options/Schemas/StyleOptions.php:126
+msgid "Border"
+msgstr "حاشیه"
+
+#: includes/Options/Schemas/StyleOptions.php:90
+msgid "Set the desired text shadow"
+msgstr "‫سایه متن دلخواه را تنظیم کنید"
+
+#: includes/Options/Schemas/StyleOptions.php:79
+#: includes/Options/Schemas/StyleOptions.php:89
+msgid "Text Shadow"
+msgstr "‫سایه متن"
+
+#: includes/Options/Schemas/StyleOptions.php:175
+msgid "With box shadow, you can create impressive 3d effects and designs"
+msgstr "‫با سایه جعبه‬‫،‬‫ می توانید جلوه ها و طرح های چشمگیر 3D ایجاد کنید"
+
+#: includes/Options/Schemas/StyleOptions.php:174
+msgid "Meet Box Shadow"
+msgstr "‫با سایه جعبه آشنا شوید"
+
+#: includes/Options/Schemas/Shadow.php:48
+msgid "Vertical distance"
+msgstr "‫فاصله عمودی"
+
+#: includes/Options/Schemas/Shadow.php:33
+msgid "Horizontal distance"
+msgstr "‫فاصله افقی"
+
+#: includes/Options/Schemas/StyleOptions.php:653
+msgid "With filter options you can chang the element hue, saturate, opacity, contrast and box shadow."
+msgstr "‫با گزینه های فیلتر می توانید رنگ الِمان‬‫،‬‫ اشباع‬‫،‬‫ تیرگی‬‫،‬‫ کنتراست و سایه جعبه را تغییر دهید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:652
+msgid "Meet Filters"
+msgstr "‫با فیلتر ها آشنا شوید"
+
+#: includes/Options/Schemas/StyleOptions.php:637
+msgid "Filters"
+msgstr "‫فیلترها"
+
+#: includes/Options/Schemas/StyleOptions.php:627
+msgid "With Zion Builder PRO you have access to transform options such as translate, scale, rotate, skew and perspective."
+msgstr "‫با استفاده از صفحه ساز زاین نسخه حرفه ای به گزینه هایی مانند ترنسفرم‬‫،‬‫ translate‬‫,‬‫ scale‬‫,‬‫ rotate‬‫,‬‫ skew and perspective تبدیل می شوید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:626
+msgid "Meet Transform"
+msgstr "‫با ترنسفرم آشنا شوید"
+
+#: includes/Options/Schemas/StyleOptions.php:611
+msgid "Transform"
+msgstr "‫ترنسفرم"
+
+#: includes/Options/Schemas/StyleOptions.php:601
+msgid "With transitions you can bring your elements to life by animating them to suit your needs."
+msgstr "‫با ترنزیشن می توانید الِمان های خود را با انیمیشن متناسب با نیازهای خود زنده کنید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:600
+msgid "Meet Transitions"
+msgstr "‫با ترنزیشن آشنا شوید"
+
+#: includes/Options/Schemas/StyleOptions.php:585
+msgid "Transitions"
+msgstr "‫ترنزیشن ها"
+
+#: includes/Options/Schemas/StyleOptions.php:575
+msgid "With ZionBuilder PRO you have access to additional options like display, flex, position, overflow and many more."
+msgstr "‫با صفحه ساز زاین نسخه حرفه ای به گزینه های دیگری مانند نمایشگر‬‫,‬‫ فلکس‬‫,‬‫ موقعیت‬‫,‬‫ سرریز و موارد دیگر دسترسی دارید‬‫.‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:574
+msgid "Want additional display options?"
+msgstr "‫گزینه های اضافی برای نمایش می خواهید‬‫؟‬‫"
+
+#: includes/Options/Schemas/StyleOptions.php:378
+msgid "Choose Z-index for element"
+msgstr "‫شاخص Z را برای اِلمان انتخاب کنید"
+
+#: includes/Options/Schemas/StyleOptions.php:377
+msgid "Z-index"
+msgstr "‫شاخص Z"
+
+#: includes/Options/Schemas/Advanced.php:150
+msgid "jello"
+msgstr "jello"
+
+#: includes/Options/Schemas/Advanced.php:125
+msgid "shake"
+msgstr "shake"
+
+#: includes/Options/Schemas/Advanced.php:120
+msgid "rubber Band"
+msgstr "rubber Band"
+
+#: includes/Options/Schemas/Advanced.php:140
+msgid "tada"
+msgstr "tada"
+
+#: includes/Options/Schemas/Advanced.php:145
+msgid "wobble"
+msgstr "wobble"
+
+#: includes/Options/Schemas/Advanced.php:110
+msgid "flash"
+msgstr "flash"
+
+#: includes/Options/Schemas/Advanced.php:455
+msgid "Slide In Left"
+msgstr "Slide In Left"
+
+#: includes/Options/Schemas/Advanced.php:210
+msgid "fade In"
+msgstr "fade In"
+
+#: includes/Options/Schemas/Advanced.php:105
+msgid "bounce"
+msgstr "bounce"
+
+#: includes/Elements/Container/Container.php:186
+#: includes/Options/Schemas/Advanced.php:100
+msgid "none"
+msgstr "‫هیچ یک"
+
+#: includes/Options/Schemas/Advanced.php:93
+msgid "Appear animation"
+msgstr "‫ظاهر شدن انیمیشن"
+
+#: includes/Options/Schemas/Advanced.php:92
+msgid "Set the desired appear animation when the element becomes visible in the viewport."
+msgstr "‫وقتی اِلمان در ویوپورت نمایان شد‬‫،‬‫ انیمیشن ظاهر شده دلخواه را تنظیم کنید"
+
+#: includes/Options/Schemas/Advanced.php:83
+msgid "Animations options"
+msgstr "‫گزینه های انیمیشن"
+
+#: includes/Options/Schemas/Advanced.php:72
+msgid "Logged out users"
+msgstr "‫کاربران خارج شده از سیستم"
+
+#: includes/Options/Schemas/Advanced.php:68
+msgid "Logged in users"
+msgstr "‫کاربران وارد شده به سیستم"
+
+#: includes/Api/RestControllers/DataSets.php:236
+msgid "Combined fonts list"
+msgstr "‫لیست فونت های ترکیبی"
+
+#: includes/Api/RestControllers/SystemInfo.php:426
+msgid "child theme"
+msgstr "‫پوسته فرزند"
+
+#: includes/Api/RestControllers/SystemInfo.php:410
+msgid "timezone"
+msgstr "‫منطقه زمانی"
+
+#: includes/Api/RestControllers/SystemInfo.php:397
+msgid "Plain"
+msgstr "ساده"
+
+#: includes/Api/RestControllers/SystemInfo.php:393
+msgid "permalink structure"
+msgstr "‫ساختار پیوند ثابت"
+
+#: includes/Api/RestControllers/SystemInfo.php:366
+msgid "memory limit"
+msgstr "‫حد حافظه"
+
+#: includes/Api/RestControllers/SystemInfo.php:354
+msgid "We recommend you to use WordPress version 4.9.8 or higher"
+msgstr "‫پیشنهاد میکنیم از نسخه 4.9.8 یا بالاتر وردپرس استفاده کنید"
+
+#: includes/Api/RestControllers/SystemInfo.php:328
+msgid "Disconnected"
+msgstr "قطع شده"
+
+#: includes/Api/RestControllers/SystemInfo.php:325
+msgid "Connected"
+msgstr "متصل شده"
+
+#: includes/Api/RestControllers/ReplaceUrl.php:187
+msgid "An error has occurred while updating the urls from page builder options."
+msgstr "‫هنگام به روزرسانی نشانی های اینترنتی از گزینه های صفحه ساز خطایی روی داده است‬‫.‬‫"
+
+#: includes/Api/RestControllers/ReplaceUrl.php:161
+msgid "An error has occurred while updating the urls."
+msgstr "‫هنگام به روزرسانی آدرس ها خطایی روی داده است‬‫.‬‫"
+
+#: includes/Api/RestControllers/ReplaceUrl.php:135
+msgid "URLs successfully replaced!"
+msgstr "‫آدرس ها با موفقیت جابگزین شدن‬‫!‬‫"
+
+#: includes/Api/RestControllers/ReplaceUrl.php:98
+msgid "Provided URL's are not valid."
+msgstr "‫آدرس های ارائه شده معتبر نیستند‬‫.‬‫"
+
+#: includes/Api/RestControllers/ReplaceUrl.php:93
+msgid "Cannot replace URL's. They are the same."
+msgstr "‫نمی توان URL ها را جایگزین کرد‬‫.‬‫ آنها یکسان هستند‬‫.‬‫"
+
+#: includes/Api/RestControllers/BulkActions.php:47
+msgid "The post id for which we need to retrieve data."
+msgstr "‫شناسه پست که برای بازیابی داده ها نیاز داریم‬‫.‬‫"
+
+#: includes/Api/RestControllers/BulkActions.php:43
+msgid "The list of actions we need to perform."
+msgstr "‫لیست اقداماتی که نیاز به انجام دارد‬‫.‬‫"
+
+#: includes/Api/RestControllers/Pages.php:117
+msgid "Post locked."
+msgstr "‫پست قفل شده است"
+
+#: includes/Api/RestControllers/Pages.php:110
+msgid "Could not lock post for current user."
+msgstr "‫قفل کردن پست برای کاربر فعلی امکان پذیر نیست‬‫.‬‫"
+
+#: includes/Api/RestControllers/Templates.php:734
+msgid "The template could not be inserted!"
+msgstr "‫الگو قادر به وارد شدن نیست‬‫!‬‫"
+
+#: includes/WPMedia.php:300
+msgid "The image could not be retrieved"
+msgstr "‫تصویر قابل بازیابی نیست"
+
+#: includes/WPMedia.php:65
+msgid "Could not retrieve the image src for given image id"
+msgstr "‫نمی توان منبع تصویر را برای شناسه تصویر بازیابی کرد"
+
+#: includes/WPMedia.php:45
+msgid "Could not retrieve the image id"
+msgstr "‫شناسه تصویر بازیابی نمی شود"
+
+#: includes/WPMedia.php:38
+msgid "image url missing"
+msgstr "‫آدرس اینترنتی تصویر موجود نیست"
+
+#: includes/Admin/Admin.php:184 includes/Integrations/Gutenberg.php:109
+msgid "WordPress Heartbeat is disabled. Zion builder requires it in order to function properly"
+msgstr "‫تابع WordPress Heartbeat غیر فعال است‬‫.‬‫ برای عملکرد صحیح صفحه ساز زاین آن را فعال کنید"
+
+#. Plugin Name of the plugin
+msgid "Zion Builder"
+msgstr "‫صفحه ساز زاین"
+
+#: includes/FileSystem.php:56
+msgid "The zip file could not be extracted!"
+msgstr "‫فایل فشرده قابل استخراج نیست‬‫!‬‫"
+
+#: includes/Templates.php:313
+msgid "Missing template type"
+msgstr "‫نوع الگو وجود ندارد"
+
+#: includes/Templates.php:304
+msgid "template"
+msgstr "الگو"
+
+#: includes/Localization.php:493
+msgid "No items"
+msgstr "‫آیتمی وجود ندارد"
+
+#: includes/Templates.php:231
+msgctxt "Zion Template Library"
+msgid "No Templates found in Trash"
+msgstr "‫هیچ الگویی در سطل زباله یافت نشد"
+
+#: includes/Templates.php:230
+msgctxt "Zion Template Library"
+msgid "No Templates found"
+msgstr "‫هیچ الگویی یافت نشد"
+
+#: includes/Templates.php:229
+msgctxt "Zion Template Library"
+msgid "Search Template"
+msgstr "‫جستجوی الگو"
+
+#: includes/Templates.php:228
+msgctxt "Zion Template Library"
+msgid "View Template"
+msgstr "‫مشاهده الگو"
+
+#: includes/Templates.php:227
+msgctxt "Zion Template Library"
+msgid "All Templates"
+msgstr "‫همه الگوها"
+
+#: includes/Templates.php:226
+msgctxt "Zion Template Library"
+msgid "New Template"
+msgstr "‫الگوی جدید"
+
+#: includes/Templates.php:225
+msgctxt "Zion Template Library"
+msgid "Edit Template"
+msgstr "‫ویرایش الگو"
+
+#: includes/Templates.php:224
+msgctxt "Zion Template Library"
+msgid "Add New Template"
+msgstr "‫اضافه کردن الگوی جدید"
+
+#: includes/Templates.php:223
+msgctxt "Zion Template Library"
+msgid "Add New"
+msgstr "‫جدید اضافه کنید"
+
+#: includes/Templates.php:222
+msgctxt "Zion Template Library"
+msgid "Template"
+msgstr "الگو"
+
+#: includes/Templates.php:221 includes/Templates.php:232
+msgctxt "Zion Template Library"
+msgid "Zion Templates"
+msgstr "‫الگوهای زاین"
+
+#: includes/Templates.php:181
+msgid "The template type already exists."
+msgstr "‫نوع الگو از قبل وجود دارد‬‫.‬‫"
+
+#: includes/Templates.php:132
+msgid "Block"
+msgstr "بلوک"
+
+#. Description of the plugin
+msgid "The page builder you always wanted. Create any design you want using live editor."
+msgstr "‫صفحه سازی که همیشه به دنبالش بودید‬‫.‬‫ با استفاده از ویرایشگر زنده‬‫،‬‫ هر طرحی را که می خواهید ایجاد کنید‬‫.‬‫"
+
+#. Author of the plugin
+msgid "zionbuilder.io"
+msgstr "zionbuilder.io"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://zionbuilder.io/?utm_campaign=plugin-uri&utm_medium=wp-dashboard-plugins"
+msgstr "https://zionbuilder.io/?utm_campaign=plugin-uri&utm_medium=wp-dashboard-plugins"
+
+#: includes/Api/RestControllers/SystemInfo.php:160
+msgid "Active plugins"
+msgstr "‫پلاگین های فعال"
+
+#: includes/Api/RestControllers/SystemInfo.php:153
+msgid "author"
+msgstr "نویسنده"
+
+#: includes/Api/RestControllers/SystemInfo.php:149
+#: includes/Api/RestControllers/SystemInfo.php:347
+msgid "version"
+msgstr "نسخه"
+
+#: includes/Api/RestControllers/SystemInfo.php:145
+#: includes/Localization.php:193
+msgid "name"
+msgstr "نام"
+
+#: includes/Api/RestControllers/SystemInfo.php:141
+msgid "Theme"
+msgstr "پوسته"
+
+#: includes/Api/RestControllers/SystemInfo.php:136
+msgid "Inactive"
+msgstr "‫غیر فعال"
+
+#: includes/Api/RestControllers/SystemInfo.php:136
+msgid "Active"
+msgstr "فعال"
+
+#: includes/Api/RestControllers/SystemInfo.php:135
+msgid "debug mode"
+msgstr "‫حالت اشکال زدایی"
+
+#: includes/Api/RestControllers/SystemInfo.php:131
+msgid "admin email"
+msgstr "‫ایمیل مدیر سایت"
+
+#: includes/Api/RestControllers/SystemInfo.php:126
+msgid "language"
+msgstr "زبان"
+
+#: includes/Api/RestControllers/SystemInfo.php:120
+msgid "max upload size"
+msgstr "‫حداکثر اندازه بارگذاری"
+
+#: includes/Api/RestControllers/SystemInfo.php:116
+msgid "wp multisite"
+msgstr "وردپرس چند سایته"
+
+#: includes/Api/RestControllers/SystemInfo.php:112
+msgid "home url"
+msgstr "‫آدرس اینترنتی خانه"
+
+#: includes/Api/RestControllers/Templates.php:767
+#: includes/Library/Sources/ZionSource.php:86
+msgid "The uploaded template is not valid!"
+msgstr "‫الگوی بارگذاری شده معتبر نیست‬‫!‬‫"
+
+#: includes/Api/RestControllers/SystemInfo.php:117
+#: includes/Api/RestControllers/SystemInfo.php:224
+#: includes/Api/RestControllers/SystemInfo.php:248
+#: includes/Api/RestControllers/SystemInfo.php:427
+#: includes/Elements/Soundcloud/Soundcloud.php:127
+#: includes/Elements/Soundcloud/Soundcloud.php:149
+#: includes/Elements/Soundcloud/Soundcloud.php:178
+#: includes/Elements/Soundcloud/Soundcloud.php:207
+#: includes/Elements/Soundcloud/Soundcloud.php:229
+#: includes/Elements/Soundcloud/Soundcloud.php:251
+#: includes/Elements/Soundcloud/Soundcloud.php:273
+#: includes/Elements/Soundcloud/Soundcloud.php:295
+#: includes/Elements/Soundcloud/Soundcloud.php:317
+#: includes/Localization.php:110 includes/MaintenanceMode.php:243
+msgid "No"
+msgstr "خیر"
+
+#: includes/Api/RestControllers/SystemInfo.php:117
+#: includes/Api/RestControllers/SystemInfo.php:221
+#: includes/Api/RestControllers/SystemInfo.php:245
+#: includes/Api/RestControllers/SystemInfo.php:427
+#: includes/Elements/Soundcloud/Soundcloud.php:123
+#: includes/Elements/Soundcloud/Soundcloud.php:145
+#: includes/Elements/Soundcloud/Soundcloud.php:174
+#: includes/Elements/Soundcloud/Soundcloud.php:203
+#: includes/Elements/Soundcloud/Soundcloud.php:225
+#: includes/Elements/Soundcloud/Soundcloud.php:247
+#: includes/Elements/Soundcloud/Soundcloud.php:269
+#: includes/Elements/Soundcloud/Soundcloud.php:291
+#: includes/Elements/Soundcloud/Soundcloud.php:313
+#: includes/Localization.php:109 includes/MaintenanceMode.php:239
+msgid "Yes"
+msgstr "بله"
+
+#: includes/Api/RestControllers/Templates.php:748
+msgid "Could not get the template zip file!"
+msgstr "‫فایل zip الگو دریافت نشد‬‫!‬‫"
+
+#: includes/Api/RestControllers/FileUpload.php:85
+#: includes/Api/RestControllers/Library.php:566
+#: includes/Api/RestControllers/Templates.php:689
+msgid "Your file is empty or invalid"
+msgstr "‫فایل شما خالی و یا نامعتبر است"
+
+#: includes/Api/RestControllers/Library.php:483
+#: includes/Api/RestControllers/Templates.php:531
+msgid "The template cannot be deleted."
+msgstr "‫الگو قابل حذف نیست‬‫.‬‫"
+
+#: includes/Api/RestControllers/Library.php:533
+#: includes/Api/RestControllers/Library.php:581
+#: includes/Api/RestControllers/Templates.php:439
+#: includes/Api/RestControllers/Templates.php:495
+#: includes/Api/RestControllers/Templates.php:518
+#: includes/Api/RestControllers/Templates.php:576
+#: includes/Api/RestControllers/Templates.php:599
+#: includes/Api/RestControllers/Templates.php:704
+#: includes/Library/Sources/LocalSource.php:69
+#: includes/Library/Sources/LocalSource.php:137 includes/Templates.php:333
+msgid "Your post id could not be found!"
+msgstr "‫شناسه پست شما پیدا نمیشه‬‫!‬‫"
+
+#: includes/Api/RestControllers/Templates.php:339
+msgid "You do not have permissions to export this template."
+msgstr "‫اجازه انتشار این الگو را ندارید‬‫.‬‫"
+
+#: includes/Api/RestControllers/Templates.php:307
+msgid "You do not have permissions to delete this resource."
+msgstr "‫اجازه حذف این منبع را ندارید‬‫.‬‫"
+
+#: includes/Api/RestControllers/FileUpload.php:65
+#: includes/Api/RestControllers/Options.php:88
+#: includes/Api/RestControllers/Templates.php:292
+msgid "You do not have permissions to edit this resource."
+msgstr "‫شما اجازه ویرایش این منبع را ندارید‬‫.‬‫"
+
+#: includes/Api/RestControllers/Assets.php:95
+#: includes/Api/RestControllers/Breakpoints.php:81
+#: includes/Api/RestControllers/BulkActions.php:71
+#: includes/Api/RestControllers/DataSets.php:93
+#: includes/Api/RestControllers/DownloadArchive.php:76
+#: includes/Api/RestControllers/Elements.php:72
+#: includes/Api/RestControllers/GoogleFonts.php:67
+#: includes/Api/RestControllers/Library.php:252
+#: includes/Api/RestControllers/Media.php:65
+#: includes/Api/RestControllers/Options.php:71
+#: includes/Api/RestControllers/Pages.php:90
+#: includes/Api/RestControllers/ReplaceUrl.php:75
+#: includes/Api/RestControllers/SystemInfo.php:65
+#: includes/Api/RestControllers/Templates.php:275
+#: includes/Api/RestControllers/Templates.php:322
+msgid "You do not have permissions to view this resource."
+msgstr "‫شما اجازه دیدن این منبع را ندارید‬‫.‬‫"
+
+#: includes/Api/RestControllers/Templates.php:212
+msgid "Whether to bypass trash and force deletion."
+msgstr "‫اینکه آیا سطل زباله را دور بزنید و حذف را مجبور کنید‬‫.‬‫"
+
+#: includes/Api/RestControllers/Pages.php:46
+#: includes/Api/RestControllers/Pages.php:65
+#: includes/Api/RestControllers/Templates.php:184
+#: includes/Api/RestControllers/Templates.php:226
+#: includes/Api/RestControllers/Templates.php:245
+#: includes/Api/RestControllers/Templates.php:249
+msgid "Unique identifier for the object."
+msgstr "‫شناسه منحصر به فردی برای هر شی‬‫.‬‫"
+
+#. translators: %s: The username who is locked from editing
+#: includes/Editor/Editor.php:274
+msgid "Post is locked by %s"
+msgstr "‫پست توسط %s قفل شده است"
+
+#: includes/FontsManager/FontProvider.php:17
+msgid "get_id must be implemented by font provider."
+msgstr "‫get_id باید توسط ارائه دهنده فونت اجرا شود‬‫.‬‫"
+
+#: includes/FontsManager/FontsManager.php:35
+msgid "get_id must be implemented by the font provider"
+msgstr "‫get_id باید توسط ارائه دهنده فونت اجرا شود‬‫.‬‫"
+
+#: includes/Templates.php:131
+msgid "Blocks"
+msgstr "‫بلوک ها"
+
+#: includes/Library/Sources/LocalSource.php:116 includes/Localization.php:793
+#: includes/Templates.php:127
+msgid "Template"
+msgstr "الگو"
+
+#: includes/Localization.php:68 includes/Templates.php:126
+msgid "Templates"
+msgstr "‫الگوها"
+
+#: includes/ImportExport.php:433
+msgid "The template configuration file is empty. There are no elements found."
+msgstr "‫فایل پیکربندی الگو خالی است‬‫.‬‫ هیچ الِمانی یافت نشد‬‫.‬‫"
+
+#: includes/ImportExport.php:423
+msgid "No configuration file found inside uploaded zip."
+msgstr "‫هیچ فایل پیکربندی درون فایل فشرده بارگذاری شده یافت نشد‬‫.‬‫"
+
+#: includes/ImportExport.php:384
+msgid "The newly template was not created."
+msgstr "‫الگوی جدید ایجاد نشده است‬‫.‬‫"
+
+#: includes/ImportExport.php:379
+msgid "My Template"
+msgstr "‫الگوی من"
+
+#: includes/Api/RestControllers/FileUpload.php:96 includes/ImportExport.php:367
+msgid "The uploaded file exceeds the MAX_FILE_SIZE"
+msgstr "‫فایل بارگذاری شده از MAX_FILE_SIZE بیشتر است"
+
+#: includes/Api/RestControllers/FileUpload.php:93 includes/ImportExport.php:364
+msgid "No file was uploaded"
+msgstr "‫هیچ فایلی بارگذاری نشده است"
+
+#: includes/ImportExport.php:356
+msgid "Empty import resource"
+msgstr "‫منبع درون ریزی خالی است"
+
+#: includes/ImportExport.php:177
+msgid "Archive created successfully."
+msgstr "‫بایگانی با موفقیت ایجاد شد"
+
+#. translators: %s: The export path for templates
+#: includes/ImportExport.php:163
+msgid "Could not create the export file in %s"
+msgstr "‫فایل برون بری در %s ایجاد نشد"
+
+#: includes/ImportExport.php:146
+msgid "ZipArchive class is not installed on your server."
+msgstr "‫کلاس ZipArchive روی سرور شما نصب نشده است‬‫.‬‫"
+
+#: includes/ImportExport.php:113
+msgid "The template data is empty or invalid. Export aborted."
+msgstr "‫داده های الگو خالی یا نامعتبر است‬‫.‬‫ برون بری لغو شد‬‫.‬‫"
+
+#: includes/Options/Schemas/PageOptions.php:86
+msgid "Pending Review"
+msgstr "‫در انتظار بررسی"
